@@ -1,0 +1,67 @@
+/******************************************************************************/
+/*	Panel																	  */
+/******************************************************************************/
+
+.to-to
+{
+	width:1080px;
+}
+
+/******************************************************************************/
+/*	Table																	  */
+/******************************************************************************/
+
+.to table.to-table .ui-sortable-helper
+{
+    display:table !important;
+}
+
+.to table.to-table .to-table-sortable-placeholder
+{
+    display:table-row !important;
+}
+
+    .to table.to-table .to-table-sortable-placeholder>td
+    {
+        padding-top:30px;
+        padding-bottom:30px;
+        background-color:#E4E4E4 !important;
+    }
+    
+/******************************************************************************/
+/*	Shortcode   															  */
+/******************************************************************************/
+    
+.to-shortcode
+{
+    color:#777777;
+}
+
+/******************************************************************************/
+/*	Create template box 													  */
+/******************************************************************************/
+
+#to-template-create-box
+{
+    
+}
+
+#to-template-create-box span
+{
+    display:block;
+    line-height:150%;
+}
+
+#to-template-create-box span+span
+{
+    padding:10px 0px 10px 0px;
+}
+
+#to-template-create-box div
+{
+    padding:10px;
+    text-align:right;
+    background:#F5F5F5;
+    border-top:solid 1px #DDDDDD;
+    margin:0px -12px -12px -12px;
+}

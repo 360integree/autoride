@@ -1,0 +1,184 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Templatica: Visual Composer Templates Manager\n"
+"POT-Creation-Date: 2020-01-15 15:35+0100\n"
+"PO-Revision-Date: 2017-10-09 13:21+0200\n"
+"Last-Translator: \n"
+"Language-Team: QuanticaLabs <quanticalabs@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../class/Templatica.Template.class.php:65
+#: ../class/Templatica.Widget.Template.class.php:12
+#: ../vc/vc_templatica_template.php:14 ../vc/vc_templatica_template.php:23
+msgid "Template"
+msgstr ""
+
+#: ../class/Templatica.Template.class.php:66
+msgid "Templates"
+msgstr ""
+
+#: ../class/Templatica.Template.class.php:67
+msgid "Add New"
+msgstr ""
+
+#: ../class/Templatica.Template.class.php:68
+msgid "Add New Template"
+msgstr ""
+
+#: ../class/Templatica.Template.class.php:69
+msgid "Edit Template"
+msgstr ""
+
+#: ../class/Templatica.Template.class.php:70
+msgid "New Template"
+msgstr ""
+
+#: ../class/Templatica.Template.class.php:71
+msgid "All Templates"
+msgstr ""
+
+#: ../class/Templatica.Template.class.php:72
+msgid "View Template"
+msgstr ""
+
+#: ../class/Templatica.Template.class.php:73
+msgid "Search Templates"
+msgstr ""
+
+#: ../class/Templatica.Template.class.php:74
+msgid "No Templates Found"
+msgstr ""
+
+#: ../class/Templatica.Template.class.php:75
+msgid "No Templates Found in Trash"
+msgstr ""
+
+#: ../class/Templatica.Template.class.php:77
+msgid "Templatica"
+msgstr ""
+
+#: ../class/Templatica.Template.class.php:101
+msgid "[Select a template]"
+msgstr ""
+
+#: ../class/Templatica.Template.class.php:167
+#: ../view/admin/meta_box_template_main.php:13
+msgid "Main"
+msgstr ""
+
+#: ../class/Templatica.Template.class.php:196
+msgid "Create template"
+msgstr ""
+
+#: ../class/Templatica.Template.class.php:283
+#: ../class/Templatica.Widget.Template.class.php:57
+msgid "Title"
+msgstr ""
+
+#: ../class/Templatica.Template.class.php:284
+msgid "Author"
+msgstr ""
+
+#: ../class/Templatica.Template.class.php:285
+msgid "Restricted to roles"
+msgstr ""
+
+#: ../class/Templatica.Template.class.php:286
+msgid "Date"
+msgstr ""
+
+#: ../class/Templatica.Template.class.php:322
+msgid "-"
+msgstr ""
+
+#: ../class/Templatica.Template.class.php:396
+msgid "Post is not found."
+msgstr ""
+
+#: ../class/Templatica.Template.class.php:410
+msgid "Template cannot be created."
+msgstr ""
+
+#: ../class/Templatica.Template.class.php:418
+msgid "New template has been created."
+msgstr ""
+
+#: ../class/Templatica.Widget.Template.class.php:12
+msgid "Displays template."
+msgstr ""
+
+#: ../class/Templatica.Widget.Template.class.php:61
+msgid "Template:"
+msgstr ""
+
+#: ../class/Templatica.Widget.Template.class.php:68
+msgid "This template includes widgets"
+msgstr ""
+
+#: ../vc/vc_templatica_template.php:15
+msgid "Display template from Templatica."
+msgstr ""
+
+#: ../vc/vc_templatica_template.php:16
+msgid "Content"
+msgstr ""
+
+#: ../vc/vc_templatica_template.php:24
+msgid "Select template which has to be displayed."
+msgstr ""
+
+#: ../view/admin/meta_box_any_template_create.php:7
+msgid "To create a template based on current post/page simply click on button below. New template will be created automatically."
+msgstr ""
+
+#: ../view/admin/meta_box_template_main.php:18
+#, php-format
+msgid "Template usage (%d)"
+msgstr ""
+
+#: ../view/admin/meta_box_template_main.php:26
+msgid "User roles"
+msgstr ""
+
+#: ../view/admin/meta_box_template_main.php:28
+msgid "Select for which user roles this template will be available."
+msgstr ""
+
+#: ../view/admin/meta_box_template_main.php:29
+msgid "Please note, that created template is always available for author of it."
+msgstr ""
+
+#: ../view/admin/meta_box_template_main.php:33
+msgid "[All users]"
+msgstr ""
+
+#: ../view/admin/meta_box_template_main.php:48
+msgid "Shortcode"
+msgstr ""
+
+#: ../view/admin/meta_box_template_main.php:50
+msgid "Shortcode of the template."
+msgstr ""
+
+#: ../view/admin/meta_box_template_main.php:65
+msgid "Template usage"
+msgstr ""
+
+#: ../view/admin/meta_box_template_main.php:67
+msgid "List of posts in which this template is used."
+msgstr ""
+
+#: ../view/admin/meta_box_template_main.php:74
+#, php-format
+msgid "Post #%s"
+msgstr ""

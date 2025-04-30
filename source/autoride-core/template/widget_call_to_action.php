@@ -1,0 +1,4 @@
+<?php
+		echo $this->data['html']['start'];
+		echo do_shortcode('[vc_autoride_theme_call_to_action style="'.(int)$this->data['instance']['style'].'" icon="'.$this->data['instance']['icon'].'" header="'.$this->data['instance']['header'].'" subheader="'.$this->data['instance']['subheader'].'" button_style="'.$this->data['instance']['button_style'].'" button_label="'.$this->data['instance']['button_label'].'" button_url="'.$this->data['instance']['button_url'].'" button_url_target="'.$this->data['instance']['button_url_target'].'" align="'.$this->data['instance']['align'].'" css_class="'.$this->data['instance']['css_class'].'"]');
+		echo $this->data['html']['stop'];

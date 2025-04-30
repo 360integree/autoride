@@ -1,0 +1,1674 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AutoRide Core\n"
+"POT-Creation-Date: 2020-02-07 16:34+0100\n"
+"PO-Revision-Date: 2020-02-07 16:34+0100\n"
+"Last-Translator: \n"
+"Language-Team: QuanticaLabs <quanticalabs@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../class/ARC.MetaBox.class.php:24 ../class/ARC.MetaBox.class.php:34
+#: ../template/admin/widget_call_to_action.php:27
+#: ../vc/element/vc_theme_call_to_action.php:46
+#: ../vc/element/vc_theme_feature_carousel_item.php:32
+#: ../vc/element/vc_theme_feature_image_list_item.php:40
+#: ../vc/element/vc_theme_feature_item.php:33
+#: ../vc/element/vc_theme_google_map.php:328
+#: ../vc/element/vc_theme_header_subheader.php:23
+#: ../vc/element/vc_theme_notice.php:32 ../vc/element/vc_theme_tab_item.php:32
+msgid "Header"
+msgstr ""
+
+#: ../class/ARC.MetaBox.class.php:25 ../class/ARC.MetaBox.class.php:35
+#: ../vc/element/vc_theme_attribute_table.php:13
+#: ../vc/element/vc_theme_attribute_table_item.php:10
+#: ../vc/element/vc_theme_blockquote.php:16
+#: ../vc/element/vc_theme_button.php:18
+#: ../vc/element/vc_theme_call_to_action.php:20
+#: ../vc/element/vc_theme_counter_box.php:13
+#: ../vc/element/vc_theme_counter_box_item.php:13
+#: ../vc/element/vc_theme_counter_list.php:13
+#: ../vc/element/vc_theme_counter_list_item.php:13
+#: ../vc/element/vc_theme_driver_list.php:20
+#: ../vc/element/vc_theme_driver_list_item.php:26
+#: ../vc/element/vc_theme_feature.php:16
+#: ../vc/element/vc_theme_feature_carousel.php:17
+#: ../vc/element/vc_theme_feature_carousel_item.php:16
+#: ../vc/element/vc_theme_feature_circle.php:13
+#: ../vc/element/vc_theme_feature_circle_item.php:16
+#: ../vc/element/vc_theme_feature_image_list.php:17
+#: ../vc/element/vc_theme_feature_image_list_item.php:16
+#: ../vc/element/vc_theme_feature_image_list_item.php:47
+#: ../vc/element/vc_theme_feature_item.php:16
+#: ../vc/element/vc_theme_gallery.php:13
+#: ../vc/element/vc_theme_gallery_item.php:16
+#: ../vc/element/vc_theme_google_map.php:16
+#: ../vc/element/vc_theme_header_subheader.php:16
+#: ../vc/element/vc_theme_list.php:16 ../vc/element/vc_theme_list.php:32
+#: ../vc/element/vc_theme_logo.php:13 ../vc/element/vc_theme_menu.php:22
+#: ../vc/element/vc_theme_meta_icon_list.php:16
+#: ../vc/element/vc_theme_meta_icon_list_item.php:16
+#: ../vc/element/vc_theme_notice.php:16
+#: ../vc/element/vc_theme_page_header_bottom.php:16
+#: ../vc/element/vc_theme_paragraph_large.php:17
+#: ../vc/element/vc_theme_paragraph_large.php:24
+#: ../vc/element/vc_theme_process_list.php:17
+#: ../vc/element/vc_theme_process_list_item.php:16
+#: ../vc/element/vc_theme_process_list_item.php:33
+#: ../vc/element/vc_theme_recent_post.php:13
+#: ../vc/element/vc_theme_social_profile_list.php:15
+#: ../vc/element/vc_theme_social_profile_list_item.php:16
+#: ../vc/element/vc_theme_tab.php:17 ../vc/element/vc_theme_tab_item.php:16
+#: ../vc/element/vc_theme_tab_item.php:40
+#: ../vc/element/vc_theme_testimonial_list.php:16
+#: ../vc/element/vc_theme_testimonial_list_item.php:13
+#: ../vc/element/vc_theme_vehicle_list.php:13
+#: ../vc/element/vc_theme_work_experience_list.php:13
+#: ../vc/element/vc_theme_work_experience_list_item.php:13
+msgid "Content"
+msgstr ""
+
+#: ../class/ARC.MetaBox.class.php:26 ../class/ARC.MetaBox.class.php:36
+msgid "Footer"
+msgstr ""
+
+#: ../class/ARC.MetaBox.class.php:37
+msgid "Elements"
+msgstr ""
+
+#: ../class/ARC.Widget.CallToAction.class.php:13
+#, php-format
+msgid "(%s theme) Call To Action"
+msgstr ""
+
+#: ../class/ARC.Widget.CallToAction.class.php:13
+msgid "Displays call to action box."
+msgstr ""
+
+#: ../class/ARC.Widget.VehicleAttribute.class.php:13
+#, php-format
+msgid "(%s theme) Vehicle Attributes"
+msgstr ""
+
+#: ../class/ARC.Widget.VehicleAttribute.class.php:13
+msgid "Displays vehicle attributes. Widget works on vehicle details page only."
+msgstr ""
+
+#: ../template/admin/widget_call_to_action.php:9
+#: ../vc/element/vc_theme_blockquote.php:23
+#: ../vc/element/vc_theme_button.php:49
+#: ../vc/element/vc_theme_call_to_action.php:27
+#: ../vc/element/vc_theme_driver_list.php:31
+#: ../vc/element/vc_theme_feature.php:27 ../vc/element/vc_theme_list.php:23
+#: ../vc/element/vc_theme_meta_icon_list.php:26
+#: ../vc/element/vc_theme_paragraph_large.php:32
+#: ../vc/element/vc_theme_social_profile_list.php:39
+#: ../vc/element/vc_theme_testimonial_list.php:26
+msgid "Style"
+msgstr ""
+
+#: ../template/admin/widget_call_to_action.php:18
+#: ../vc/element/vc_theme_call_to_action.php:36
+#: ../vc/element/vc_theme_feature_carousel_item.php:23
+#: ../vc/element/vc_theme_feature_image_list_item.php:31
+#: ../vc/element/vc_theme_feature_item.php:24
+#: ../vc/element/vc_theme_meta_icon_list_item.php:24
+#: ../vc/element/vc_theme_notice.php:23
+#: ../vc/element/vc_theme_process_list_item.php:24
+#: ../vc/element/vc_theme_tab_item.php:23
+msgid "Icon"
+msgstr ""
+
+#: ../template/admin/widget_call_to_action.php:31
+#: ../vc/element/vc_theme_call_to_action.php:54
+#: ../vc/element/vc_theme_google_map.php:336
+#: ../vc/element/vc_theme_header_subheader.php:48
+#: ../vc/element/vc_theme_notice.php:41
+msgid "Subheader"
+msgstr ""
+
+#: ../template/admin/widget_call_to_action.php:35
+#: ../vc/element/vc_theme_call_to_action.php:85
+msgid "Button style"
+msgstr ""
+
+#: ../template/admin/widget_call_to_action.php:44
+#: ../vc/element/vc_theme_call_to_action.php:62
+#: ../vc/element/vc_theme_google_map.php:344
+msgid "Button label"
+msgstr ""
+
+#: ../template/admin/widget_call_to_action.php:48
+#: ../vc/element/vc_theme_call_to_action.php:69
+#: ../vc/element/vc_theme_google_map.php:352
+msgid "Button URL address"
+msgstr ""
+
+#: ../template/admin/widget_call_to_action.php:52
+msgid "Button URL address target"
+msgstr ""
+
+#: ../template/admin/widget_call_to_action.php:61
+#: ../vc/element/vc_theme_button.php:58
+#: ../vc/element/vc_theme_call_to_action.php:94
+#: ../vc/element/vc_theme_header_subheader.php:56
+#: ../vc/element/vc_theme_paragraph_large.php:41
+msgid "Align"
+msgstr ""
+
+#: ../template/admin/widget_call_to_action.php:70
+#: ../vc/element/vc_theme_attribute_table.php:23
+#: ../vc/element/vc_theme_attribute_table_item.php:33
+#: ../vc/element/vc_theme_blockquote.php:48
+#: ../vc/element/vc_theme_button.php:67
+#: ../vc/element/vc_theme_call_to_action.php:103
+#: ../vc/element/vc_theme_counter_box.php:31
+#: ../vc/element/vc_theme_counter_list.php:31
+#: ../vc/element/vc_theme_counter_list_item.php:36
+#: ../vc/element/vc_theme_driver_list.php:40
+#: ../vc/element/vc_theme_driver_list_item.php:50
+#: ../vc/element/vc_theme_feature.php:36
+#: ../vc/element/vc_theme_feature_carousel.php:28
+#: ../vc/element/vc_theme_feature_carousel_item.php:46
+#: ../vc/element/vc_theme_feature_circle.php:79
+#: ../vc/element/vc_theme_feature_image_list.php:28
+#: ../vc/element/vc_theme_feature_image_list_item.php:61
+#: ../vc/element/vc_theme_feature_item.php:55
+#: ../vc/element/vc_theme_gallery.php:59
+#: ../vc/element/vc_theme_gallery_item.php:76
+#: ../vc/element/vc_theme_google_map.php:131
+#: ../vc/element/vc_theme_header_subheader.php:65
+#: ../vc/element/vc_theme_list.php:39 ../vc/element/vc_theme_logo.php:20
+#: ../vc/element/vc_theme_menu.php:38
+#: ../vc/element/vc_theme_meta_icon_list.php:35
+#: ../vc/element/vc_theme_notice.php:50
+#: ../vc/element/vc_theme_page_header_bottom.php:60
+#: ../vc/element/vc_theme_paragraph_large.php:50
+#: ../vc/element/vc_theme_process_list.php:28
+#: ../vc/element/vc_theme_process_list_item.php:40
+#: ../vc/element/vc_theme_recent_post.php:20
+#: ../vc/element/vc_theme_social_profile_list.php:48
+#: ../vc/element/vc_theme_tab.php:73 ../vc/element/vc_theme_tab_item.php:47
+#: ../vc/element/vc_theme_testimonial_list.php:36
+#: ../vc/element/vc_theme_work_experience_list.php:22
+#: ../vc/element/vc_theme_work_experience_list_item.php:53
+msgid "CSS class"
+msgstr ""
+
+#: ../template/admin/widget_vehicle_attribute.php:2
+msgid "Title"
+msgstr ""
+
+#: ../template/admin/widget_vehicle_attribute.php:6
+msgid "URL address of page with booking form"
+msgstr ""
+
+#: ../template/widget_vehicle_attribute.php:33
+#, php-format
+msgid "%s Passengers"
+msgstr ""
+
+#: ../template/widget_vehicle_attribute.php:42
+#, php-format
+msgid "%s Suitcases"
+msgstr ""
+
+#: ../template/widget_vehicle_attribute.php:76
+msgid "Book Now"
+msgstr ""
+
+#: ../vc/element/vc_theme_attribute_table.php:11
+msgid "Attributes table"
+msgstr ""
+
+#: ../vc/element/vc_theme_attribute_table.php:12
+msgid "Creates table of attributes."
+msgstr ""
+
+#: ../vc/element/vc_theme_attribute_table.php:24
+#: ../vc/element/vc_theme_attribute_table_item.php:34
+#: ../vc/element/vc_theme_blockquote.php:49
+#: ../vc/element/vc_theme_button.php:68
+#: ../vc/element/vc_theme_call_to_action.php:104
+#: ../vc/element/vc_theme_counter_box.php:32
+#: ../vc/element/vc_theme_counter_list.php:32
+#: ../vc/element/vc_theme_counter_list_item.php:37
+#: ../vc/element/vc_theme_driver_list.php:41
+#: ../vc/element/vc_theme_driver_list_item.php:51
+#: ../vc/element/vc_theme_feature.php:37
+#: ../vc/element/vc_theme_feature_carousel.php:29
+#: ../vc/element/vc_theme_feature_carousel_item.php:47
+#: ../vc/element/vc_theme_feature_circle.php:80
+#: ../vc/element/vc_theme_feature_image_list.php:29
+#: ../vc/element/vc_theme_feature_image_list_item.php:62
+#: ../vc/element/vc_theme_feature_item.php:56
+#: ../vc/element/vc_theme_gallery.php:60
+#: ../vc/element/vc_theme_gallery_item.php:77
+#: ../vc/element/vc_theme_google_map.php:132
+#: ../vc/element/vc_theme_header_subheader.php:66
+#: ../vc/element/vc_theme_list.php:40 ../vc/element/vc_theme_logo.php:21
+#: ../vc/element/vc_theme_menu.php:39
+#: ../vc/element/vc_theme_meta_icon_list.php:36
+#: ../vc/element/vc_theme_notice.php:51
+#: ../vc/element/vc_theme_page_header_bottom.php:61
+#: ../vc/element/vc_theme_paragraph_large.php:51
+#: ../vc/element/vc_theme_process_list.php:29
+#: ../vc/element/vc_theme_process_list_item.php:41
+#: ../vc/element/vc_theme_recent_post.php:21
+#: ../vc/element/vc_theme_social_profile_list.php:49
+#: ../vc/element/vc_theme_tab.php:74 ../vc/element/vc_theme_tab_item.php:48
+#: ../vc/element/vc_theme_testimonial_list.php:37
+#: ../vc/element/vc_theme_work_experience_list.php:23
+#: ../vc/element/vc_theme_work_experience_list_item.php:54
+msgid ""
+"Additional CSS classes which are applied to top level markup of this "
+"shortcode."
+msgstr ""
+
+#: ../vc/element/vc_theme_attribute_table_item.php:8
+msgid "Attributes table item"
+msgstr ""
+
+#: ../vc/element/vc_theme_attribute_table_item.php:9
+msgid "Creates single row."
+msgstr ""
+
+#: ../vc/element/vc_theme_attribute_table_item.php:18
+#: ../vc/element/vc_theme_counter_list_item.php:20
+msgid "Name"
+msgstr ""
+
+#: ../vc/element/vc_theme_attribute_table_item.php:19
+msgid "Enter name of attribute."
+msgstr ""
+
+#: ../vc/element/vc_theme_attribute_table_item.php:26
+#: ../vc/element/vc_theme_counter_box_item.php:29
+#: ../vc/element/vc_theme_counter_list_item.php:28
+msgid "Value"
+msgstr ""
+
+#: ../vc/element/vc_theme_attribute_table_item.php:27
+msgid "Enter value of attribute."
+msgstr ""
+
+#: ../vc/element/vc_theme_blockquote.php:14
+#: ../vc/element/vc_theme_blockquote.php:33
+msgid "Blockquote"
+msgstr ""
+
+#: ../vc/element/vc_theme_blockquote.php:15
+msgid "Creates blockquote."
+msgstr ""
+
+#: ../vc/element/vc_theme_blockquote.php:24
+#: ../vc/element/vc_theme_button.php:50
+#: ../vc/element/vc_theme_call_to_action.php:86
+#: ../vc/element/vc_theme_social_profile_list.php:40
+msgid "Select style of the button."
+msgstr ""
+
+#: ../vc/element/vc_theme_blockquote.php:34
+msgid "Enter blockquote."
+msgstr ""
+
+#: ../vc/element/vc_theme_blockquote.php:41
+#: ../vc/element/vc_theme_testimonial_list_item.php:27
+msgid "Author"
+msgstr ""
+
+#: ../vc/element/vc_theme_blockquote.php:42
+msgid "Author of the quote."
+msgstr ""
+
+#: ../vc/element/vc_theme_button.php:16 ../vc/element/vc_theme_button.php:88
+#: ../vc/element/vc_theme_call_to_action.php:128
+msgid "Button"
+msgstr ""
+
+#: ../vc/element/vc_theme_button.php:17
+msgid "Creates button."
+msgstr ""
+
+#: ../vc/element/vc_theme_button.php:26
+#: ../vc/element/vc_theme_counter_box_item.php:21
+#: ../vc/element/vc_theme_feature_circle_item.php:24
+#: ../vc/element/vc_theme_meta_icon_list_item.php:34
+msgid "Label"
+msgstr ""
+
+#: ../vc/element/vc_theme_button.php:27
+#: ../vc/element/vc_theme_call_to_action.php:63
+msgid "Enter label of the button."
+msgstr ""
+
+#: ../vc/element/vc_theme_button.php:33
+#: ../vc/element/vc_theme_driver_list_item.php:42
+#: ../vc/element/vc_theme_feature_carousel_item.php:39
+#: ../vc/element/vc_theme_feature_image_list_item.php:54
+#: ../vc/element/vc_theme_gallery_item.php:62
+#: ../vc/element/vc_theme_meta_icon_list_item.php:42
+#: ../vc/element/vc_theme_social_profile_list_item.php:32
+msgid "URL address"
+msgstr ""
+
+#: ../vc/element/vc_theme_button.php:34
+#: ../vc/element/vc_theme_call_to_action.php:70
+msgid "Enter URL address of the button."
+msgstr ""
+
+#: ../vc/element/vc_theme_button.php:40
+msgid "URL address target"
+msgstr ""
+
+#: ../vc/element/vc_theme_button.php:41
+#: ../vc/element/vc_theme_call_to_action.php:77
+msgid "Select target of the URL address."
+msgstr ""
+
+#: ../vc/element/vc_theme_button.php:59
+msgid "Select alignment of the button."
+msgstr ""
+
+#: ../vc/element/vc_theme_call_to_action.php:18
+msgid "Call to action"
+msgstr ""
+
+#: ../vc/element/vc_theme_call_to_action.php:19
+msgid "Creates call to action section."
+msgstr ""
+
+#: ../vc/element/vc_theme_call_to_action.php:28
+msgid "Select style of the call to action."
+msgstr ""
+
+#: ../vc/element/vc_theme_call_to_action.php:37
+#: ../vc/element/vc_theme_notice.php:24 ../vc/element/vc_theme_tab_item.php:24
+msgid "Select icon."
+msgstr ""
+
+#: ../vc/element/vc_theme_call_to_action.php:47
+msgid "Enter header of the call to action section."
+msgstr ""
+
+#: ../vc/element/vc_theme_call_to_action.php:55
+msgid "Enter subheader of the call to action section."
+msgstr ""
+
+#: ../vc/element/vc_theme_call_to_action.php:76
+msgid "Button URL addres target"
+msgstr ""
+
+#: ../vc/element/vc_theme_call_to_action.php:95
+#: ../vc/element/vc_theme_paragraph_large.php:42
+msgid "Select alignment of the call to action."
+msgstr ""
+
+#: ../vc/element/vc_theme_counter_box.php:11
+msgid "Counters box"
+msgstr ""
+
+#: ../vc/element/vc_theme_counter_box.php:12
+msgid "Creates list of counter boxes."
+msgstr ""
+
+#: ../vc/element/vc_theme_counter_box.php:24
+msgid "Animation duration"
+msgstr ""
+
+#: ../vc/element/vc_theme_counter_box.php:25
+msgid ""
+"Enter duration (in miliseconds) of animation. Allowed are integer numbers "
+"from range 0 to 999999."
+msgstr ""
+
+#: ../vc/element/vc_theme_counter_box_item.php:11
+msgid "Counters box item"
+msgstr ""
+
+#: ../vc/element/vc_theme_counter_box_item.php:12
+msgid "Creates single counter box."
+msgstr ""
+
+#: ../vc/element/vc_theme_counter_box_item.php:22
+msgid "Enter label of progress bar."
+msgstr ""
+
+#: ../vc/element/vc_theme_counter_box_item.php:30
+msgid "Enter value of progress bar. An integer value from range 0 to 999999."
+msgstr ""
+
+#: ../vc/element/vc_theme_counter_list.php:11
+msgid "Counters list"
+msgstr ""
+
+#: ../vc/element/vc_theme_counter_list.php:12
+msgid "Creates counters list."
+msgstr ""
+
+#: ../vc/element/vc_theme_counter_list.php:24
+#: ../vc/element/vc_theme_work_experience_list_item.php:21
+msgid "Duration"
+msgstr ""
+
+#: ../vc/element/vc_theme_counter_list.php:25
+msgid ""
+"Duration of animation in milisecond. Allowed are integres numbers from 0 to "
+"999999."
+msgstr ""
+
+#: ../vc/element/vc_theme_counter_list_item.php:11
+msgid "Counters list item"
+msgstr ""
+
+#: ../vc/element/vc_theme_counter_list_item.php:12
+msgid "Creates single counters list item."
+msgstr ""
+
+#: ../vc/element/vc_theme_counter_list_item.php:21
+msgid "Enter name."
+msgstr ""
+
+#: ../vc/element/vc_theme_counter_list_item.php:29
+msgid "Enter value. Allowed are integres numbers from 0 to 999999999."
+msgstr ""
+
+#: ../vc/element/vc_theme_driver_list.php:18
+msgid "Drivers list"
+msgstr ""
+
+#: ../vc/element/vc_theme_driver_list.php:19
+msgid "Creates list of drivers."
+msgstr ""
+
+#: ../vc/element/vc_theme_driver_list.php:32
+msgid "Select style of the driver list."
+msgstr ""
+
+#: ../vc/element/vc_theme_driver_list_item.php:24
+msgid "Drivers list item"
+msgstr ""
+
+#: ../vc/element/vc_theme_driver_list_item.php:25
+msgid "Creates single item of drivers list."
+msgstr ""
+
+#: ../vc/element/vc_theme_driver_list_item.php:33
+msgid "Driver"
+msgstr ""
+
+#: ../vc/element/vc_theme_driver_list_item.php:34
+msgid "Select driver."
+msgstr ""
+
+#: ../vc/element/vc_theme_driver_list_item.php:36
+#: ../vc/element/vc_theme_driver_list_item.php:44
+#: ../vc/element/vc_theme_driver_list_item.php:52
+#: ../vc/element/vc_theme_google_map.php:25
+#: ../vc/element/vc_theme_google_map.php:40
+#: ../vc/element/vc_theme_google_map.php:48
+#: ../vc/element/vc_theme_google_map.php:56
+#: ../vc/element/vc_theme_google_map.php:64
+#: ../vc/element/vc_theme_google_map.php:72
+#: ../vc/element/vc_theme_google_map.php:80
+#: ../vc/element/vc_theme_google_map.php:88
+#: ../vc/element/vc_theme_google_map.php:96
+#: ../vc/element/vc_theme_google_map.php:111
+#: ../vc/element/vc_theme_google_map.php:125
+#: ../vc/element/vc_theme_google_map.php:133
+#: ../vc/element/vc_theme_notice.php:26 ../vc/element/vc_theme_notice.php:35
+#: ../vc/element/vc_theme_notice.php:44 ../vc/element/vc_theme_notice.php:52
+#: ../vc/element/vc_theme_tab.php:29 ../vc/element/vc_theme_tab.php:43
+#: ../vc/element/vc_theme_tab.php:57 ../vc/element/vc_theme_tab.php:67
+#: ../vc/element/vc_theme_tab.php:75
+#: ../vc/element/vc_theme_testimonial_list.php:30
+#: ../vc/element/vc_theme_testimonial_list.php:38
+msgid "General"
+msgstr ""
+
+#: ../vc/element/vc_theme_driver_list_item.php:43
+msgid "URL address available for on click action."
+msgstr ""
+
+#: ../vc/element/vc_theme_feature.php:14
+msgid "Features"
+msgstr ""
+
+#: ../vc/element/vc_theme_feature.php:15
+msgid "Creates list of features."
+msgstr ""
+
+#: ../vc/element/vc_theme_feature.php:28
+msgid "Select style of the features."
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_carousel.php:15
+msgid "Features carousel"
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_carousel.php:16
+msgid "Creates carousel of features."
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_carousel_item.php:14
+msgid "Features carousel item"
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_carousel_item.php:15
+msgid "Creates single feature of carousel."
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_carousel_item.php:24
+#: ../vc/element/vc_theme_feature_image_list_item.php:32
+#: ../vc/element/vc_theme_feature_item.php:25
+#: ../vc/element/vc_theme_process_list_item.php:25
+msgid "Select icon of feature."
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_carousel_item.php:33
+#: ../vc/element/vc_theme_feature_image_list_item.php:41
+#: ../vc/element/vc_theme_tab_item.php:33
+msgid "Header."
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_carousel_item.php:40
+#: ../vc/element/vc_theme_feature_image_list_item.php:55
+#: ../vc/element/vc_theme_meta_icon_list_item.php:43
+msgid "URL address."
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_circle.php:11
+msgid "Features circle"
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_circle.php:12
+msgid "Creates circle with features."
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_circle.php:23
+#: ../vc/element/vc_theme_google_map.php:94
+msgid "Height"
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_circle.php:24
+msgid "Enter height value (in pixels) of each element."
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_circle.php:30
+msgid "Inner circle header"
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_circle.php:31
+msgid "Enter header of inner circle."
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_circle.php:37
+msgid "Inner circle subheader"
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_circle.php:38
+msgid "Enter subheader of inner circle."
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_circle.php:44
+msgid "Circle radius"
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_circle.php:45
+msgid ""
+"Enter value (in pixels) of circle radius. An integer value from range 0 to "
+"999."
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_circle.php:51
+msgid "Circle count"
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_circle.php:52
+msgid "Number of circles. An integer value from range 2 to 99."
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_circle.php:58
+msgid "Circle space I"
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_circle.php:59
+msgid ""
+"Space (in pixels) between first and second circle. An integer value from "
+"range 0 to 999."
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_circle.php:65
+msgid "Circle space II"
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_circle.php:66
+msgid ""
+"Space (in pixels) between others circles. An integer value from range 0 to "
+"999."
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_circle.php:72
+msgid "Start radius"
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_circle.php:73
+msgid "Radius of first item on circle. An integer value from range 0 to 360."
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_circle_item.php:14
+msgid "Features cicrcle item"
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_circle_item.php:15
+msgid "Creates single feature in circle."
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_circle_item.php:25
+msgid "Enter text of label."
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_circle_item.php:31
+msgid "Label position"
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_circle_item.php:32
+msgid "Select position of the label."
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_image_list.php:15
+msgid "Features image list"
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_image_list.php:16
+msgid "Creates features list with images."
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_image_list_item.php:14
+msgid "Features image list item"
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_image_list_item.php:15
+msgid "Creates single feature item with image."
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_image_list_item.php:23
+#: ../vc/element/vc_theme_page_header_bottom.php:28
+msgid "Image"
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_image_list_item.php:24
+msgid "Select an image."
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_image_list_item.php:48
+#: ../vc/element/vc_theme_process_list_item.php:34
+#: ../vc/element/vc_theme_tab_item.php:41
+msgid "Content."
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_item.php:14
+msgid "Features item"
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_item.php:15
+msgid "Creates single feature."
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_item.php:34
+msgid "Enter header of feature."
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_item.php:41
+msgid "Header URL address"
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_item.php:42
+msgid "Enter header URL address."
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_item.php:48
+msgid "Description"
+msgstr ""
+
+#: ../vc/element/vc_theme_feature_item.php:49
+msgid "Enter description of feature."
+msgstr ""
+
+#: ../vc/element/vc_theme_gallery.php:11
+msgid "Gallery"
+msgstr ""
+
+#: ../vc/element/vc_theme_gallery.php:12
+msgid "Creates gallery."
+msgstr ""
+
+#: ../vc/element/vc_theme_gallery.php:24
+msgid "Gallery type"
+msgstr ""
+
+#: ../vc/element/vc_theme_gallery.php:25
+msgid "Select gallery type."
+msgstr ""
+
+#: ../vc/element/vc_theme_gallery.php:28
+msgid "Gallery with images in rows "
+msgstr ""
+
+#: ../vc/element/vc_theme_gallery.php:29
+msgid "Gallery with images in columns"
+msgstr ""
+
+#: ../vc/element/vc_theme_gallery.php:30 ../vc/element/vc_theme_gallery.php:44
+msgid "Images with overlay effect"
+msgstr ""
+
+#: ../vc/element/vc_theme_gallery.php:38
+msgid "Effect type"
+msgstr ""
+
+#: ../vc/element/vc_theme_gallery.php:39
+msgid "Select effect type."
+msgstr ""
+
+#: ../vc/element/vc_theme_gallery.php:42
+msgid "Images without additional effects"
+msgstr ""
+
+#: ../vc/element/vc_theme_gallery.php:43
+msgid "Images with hover effect"
+msgstr ""
+
+#: ../vc/element/vc_theme_gallery.php:52
+msgid "Column count"
+msgstr ""
+
+#: ../vc/element/vc_theme_gallery.php:53
+msgid ""
+"Enter number of columns. This option is available for \"Gallery with images "
+"in columns\" only."
+msgstr ""
+
+#: ../vc/element/vc_theme_gallery_item.php:14
+msgid "Gallery item"
+msgstr ""
+
+#: ../vc/element/vc_theme_gallery_item.php:15
+msgid "Creates item (image) of gallery."
+msgstr ""
+
+#: ../vc/element/vc_theme_gallery_item.php:24
+msgid "Thumbnail"
+msgstr ""
+
+#: ../vc/element/vc_theme_gallery_item.php:25
+msgid "Select a thumbnail. Recomended sizes are 275x275px and 590x275px."
+msgstr ""
+
+#: ../vc/element/vc_theme_gallery_item.php:32
+msgid "Enlarged image"
+msgstr ""
+
+#: ../vc/element/vc_theme_gallery_item.php:33
+msgid ""
+"Select an enlarged image. This image will be shown once user clicks on "
+"thumbnail (if such action has been choosen)."
+msgstr ""
+
+#: ../vc/element/vc_theme_gallery_item.php:40
+msgid "Item width"
+msgstr ""
+
+#: ../vc/element/vc_theme_gallery_item.php:41
+msgid ""
+"Select width of item in percentage value of parent section. This option is "
+"available for \"Gallery with images in rows\" only."
+msgstr ""
+
+#: ../vc/element/vc_theme_gallery_item.php:49
+msgid "On click action"
+msgstr ""
+
+#: ../vc/element/vc_theme_gallery_item.php:50
+msgid "Determine what action should be executed when user clicks on image."
+msgstr ""
+
+#: ../vc/element/vc_theme_gallery_item.php:53
+msgid "Open large image"
+msgstr ""
+
+#: ../vc/element/vc_theme_gallery_item.php:54
+msgid "Open new page"
+msgstr ""
+
+#: ../vc/element/vc_theme_gallery_item.php:63
+msgid "Enter URL address which should be opened for option \"Open new page\"."
+msgstr ""
+
+#: ../vc/element/vc_theme_gallery_item.php:69
+msgid "Image caption"
+msgstr ""
+
+#: ../vc/element/vc_theme_gallery_item.php:70
+msgid "Caption of the image."
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:14
+msgid "Google Maps"
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:15
+msgid "Creates Google Map"
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:23
+msgid "Static URL address of the map"
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:24
+msgid ""
+"Enter static URL address. If provided, all other parameters are ignored."
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:31
+#: ../vc/element/vc_theme_google_map.php:139
+#: ../vc/element/vc_theme_google_map.php:143
+#: ../vc/element/vc_theme_google_map.php:152
+#: ../vc/element/vc_theme_google_map.php:166
+#: ../vc/element/vc_theme_google_map.php:176
+#: ../vc/element/vc_theme_google_map.php:186
+msgid "Map type"
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:32
+msgid "Select type of the map."
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:35
+msgid "Type 1 (large map with box)"
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:36
+msgid "Type 2 (small map)"
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:46
+msgid "Latitude"
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:47
+#, php-format
+msgid ""
+"You can generate your own coordinates (latitude) <a href=\"%s\" target="
+"\"_blank\">here</a>."
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:54
+msgid "Longtitude"
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:55
+#, php-format
+msgid ""
+"You can generate your own coordinates (longtitude) <a href=\"%s\" target="
+"\"_blank\">here</a>."
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:62
+msgid "Center point of the map (latitude)"
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:63
+msgid "Enter latitude of center map point."
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:70
+msgid "Center point of the map (longtitude)"
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:71
+msgid "Enter longtitude of center map point."
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:78
+msgid "Marker"
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:79
+msgid "Select marker icon."
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:86
+msgid "Width"
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:87
+#, php-format
+msgid "Width of the map (in % of the parent selector)."
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:95
+msgid "Map height."
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:102
+msgid "Draggable"
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:103
+msgid "Enable or disable draggable on the map."
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:106
+#: ../vc/element/vc_theme_google_map.php:121
+#: ../vc/element/vc_theme_google_map.php:162
+#: ../vc/element/vc_theme_google_map.php:196
+#: ../vc/element/vc_theme_google_map.php:238
+#: ../vc/element/vc_theme_google_map.php:262
+#: ../vc/element/vc_theme_google_map.php:286
+#: ../vc/element/vc_theme_google_map.php:318
+msgid "Enabled"
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:107
+#: ../vc/element/vc_theme_google_map.php:122
+#: ../vc/element/vc_theme_google_map.php:163
+#: ../vc/element/vc_theme_google_map.php:197
+#: ../vc/element/vc_theme_google_map.php:239
+#: ../vc/element/vc_theme_google_map.php:263
+#: ../vc/element/vc_theme_google_map.php:287
+#: ../vc/element/vc_theme_google_map.php:319
+msgid "Disabled"
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:117
+msgid "Scrollwheel"
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:118
+msgid "Enable or disable wheel scrolling on the map."
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:140
+msgid "Select map type. Must be selected also in \"Allowed map type\" section."
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:149
+msgid "Allowed map types"
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:150
+msgid "Select allowed map types."
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:158
+msgid "Map type control"
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:159
+msgid "Enable or disable map type control."
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:172
+msgid "Map type control style"
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:173
+msgid "Select map type control style."
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:182
+msgid "Map type control position"
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:183
+msgid "Select map type control position."
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:192
+msgid "Zoom control"
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:193
+msgid "Enable or disable zoom control."
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:200
+#: ../vc/element/vc_theme_google_map.php:208
+#: ../vc/element/vc_theme_google_map.php:218
+#: ../vc/element/vc_theme_google_map.php:228
+msgid "Zoom"
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:206
+msgid "Zoom level"
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:207
+msgid "Enter level of zoom. Allowed is integer value from range 1 to 21."
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:214
+msgid "Zoom control style"
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:215
+msgid "Select zoom control style."
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:224
+msgid "Zoom position"
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:225
+msgid "Select zoom position."
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:234
+msgid "Pan control"
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:235
+msgid "Enable or disable pan control."
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:242
+#: ../vc/element/vc_theme_google_map.php:252
+msgid "Pan"
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:248
+msgid "Pan control position"
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:249
+msgid "Select pan control position."
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:258
+msgid "Scale control"
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:259
+msgid "Enable or disable scale control."
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:266
+#: ../vc/element/vc_theme_google_map.php:276
+msgid "Scale"
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:272
+msgid "Scale control position"
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:273
+msgid "Select scale control position."
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:282
+#: ../vc/element/vc_theme_google_map.php:290
+#: ../vc/element/vc_theme_google_map.php:300
+msgid "Street view"
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:283
+msgid "Enable or disable street view."
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:296
+msgid "Street view position"
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:297
+msgid "Select street view position."
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:306
+#: ../vc/element/vc_theme_google_map.php:308
+msgid "Styles"
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:307
+#, php-format
+msgid ""
+"JSON value contains Google Maps styles. You can generate it <a href=\"%s\" "
+"target=\"_blank\">here</a>."
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:314
+#: ../vc/element/vc_theme_google_map.php:322
+#: ../vc/element/vc_theme_google_map.php:330
+#: ../vc/element/vc_theme_google_map.php:338
+#: ../vc/element/vc_theme_google_map.php:346
+#: ../vc/element/vc_theme_google_map.php:354
+msgid "Box"
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:315
+msgid "Enable or disable box."
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:329
+msgid "Enter header"
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:337
+msgid "Enter subheader"
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:345
+msgid "Enter label"
+msgstr ""
+
+#: ../vc/element/vc_theme_google_map.php:353
+msgid "Enter URL address"
+msgstr ""
+
+#: ../vc/element/vc_theme_header_subheader.php:14
+msgid "Header and subheader"
+msgstr ""
+
+#: ../vc/element/vc_theme_header_subheader.php:15
+msgid "Creates header and subheader."
+msgstr ""
+
+#: ../vc/element/vc_theme_header_subheader.php:24
+msgid "Enter value for header."
+msgstr ""
+
+#: ../vc/element/vc_theme_header_subheader.php:31
+msgid "Header importance"
+msgstr ""
+
+#: ../vc/element/vc_theme_header_subheader.php:32
+msgid "Select importance of the header."
+msgstr ""
+
+#: ../vc/element/vc_theme_header_subheader.php:35
+msgid "H1"
+msgstr ""
+
+#: ../vc/element/vc_theme_header_subheader.php:36
+msgid "H2"
+msgstr ""
+
+#: ../vc/element/vc_theme_header_subheader.php:37
+msgid "H3"
+msgstr ""
+
+#: ../vc/element/vc_theme_header_subheader.php:38
+msgid "H4"
+msgstr ""
+
+#: ../vc/element/vc_theme_header_subheader.php:39
+msgid "H5"
+msgstr ""
+
+#: ../vc/element/vc_theme_header_subheader.php:40
+msgid "H6"
+msgstr ""
+
+#: ../vc/element/vc_theme_header_subheader.php:49
+msgid "Enter value for subheader."
+msgstr ""
+
+#: ../vc/element/vc_theme_header_subheader.php:57
+msgid "Select alignment of header and subheader."
+msgstr ""
+
+#: ../vc/element/vc_theme_list.php:14
+msgid "List"
+msgstr ""
+
+#: ../vc/element/vc_theme_list.php:15
+msgid "Creates unordered list."
+msgstr ""
+
+#: ../vc/element/vc_theme_list.php:24
+#: ../vc/element/vc_theme_meta_icon_list.php:27
+msgid "Select style of the list."
+msgstr ""
+
+#: ../vc/element/vc_theme_list.php:33
+msgid "Enter list."
+msgstr ""
+
+#: ../vc/element/vc_theme_logo.php:11
+msgid "Logo"
+msgstr ""
+
+#: ../vc/element/vc_theme_logo.php:12
+msgid "Displays logo defined in Theme Options."
+msgstr ""
+
+#: ../vc/element/vc_theme_menu.php:10
+msgid "[Not selected]"
+msgstr ""
+
+#: ../vc/element/vc_theme_menu.php:20 ../vc/element/vc_theme_menu.php:29
+msgid "Menu"
+msgstr ""
+
+#: ../vc/element/vc_theme_menu.php:21
+msgid "Creates menu."
+msgstr ""
+
+#: ../vc/element/vc_theme_menu.php:30
+msgid "Select menu"
+msgstr ""
+
+#: ../vc/element/vc_theme_meta_icon_list.php:14
+msgid "Meta icons list"
+msgstr ""
+
+#: ../vc/element/vc_theme_meta_icon_list.php:15
+msgid "Creates list of meta icon with text."
+msgstr ""
+
+#: ../vc/element/vc_theme_meta_icon_list_item.php:14
+msgid "Meta icons list item"
+msgstr ""
+
+#: ../vc/element/vc_theme_meta_icon_list_item.php:15
+msgid "Creates single meta icon."
+msgstr ""
+
+#: ../vc/element/vc_theme_meta_icon_list_item.php:25
+msgid "Select meta icon."
+msgstr ""
+
+#: ../vc/element/vc_theme_meta_icon_list_item.php:35
+msgid "Label."
+msgstr ""
+
+#: ../vc/element/vc_theme_notice.php:14
+msgid "Notice"
+msgstr ""
+
+#: ../vc/element/vc_theme_notice.php:15
+msgid "Creates notice."
+msgstr ""
+
+#: ../vc/element/vc_theme_notice.php:33
+msgid "Enter text of header."
+msgstr ""
+
+#: ../vc/element/vc_theme_notice.php:42
+msgid "Enter text of subheader."
+msgstr ""
+
+#: ../vc/element/vc_theme_page_header_bottom.php:14
+msgid "Page bottom header"
+msgstr ""
+
+#: ../vc/element/vc_theme_page_header_bottom.php:15
+msgid "Creates page bottom header."
+msgstr ""
+
+#: ../vc/element/vc_theme_page_header_bottom.php:23
+msgid "type"
+msgstr ""
+
+#: ../vc/element/vc_theme_page_header_bottom.php:24
+msgid "Select type of the header."
+msgstr ""
+
+#: ../vc/element/vc_theme_page_header_bottom.php:27
+msgid "Text"
+msgstr ""
+
+#: ../vc/element/vc_theme_page_header_bottom.php:36
+msgid "Text color"
+msgstr ""
+
+#: ../vc/element/vc_theme_page_header_bottom.php:37
+msgid "Color of text header and subheader."
+msgstr ""
+
+#: ../vc/element/vc_theme_page_header_bottom.php:44
+msgid "Background color"
+msgstr ""
+
+#: ../vc/element/vc_theme_page_header_bottom.php:45
+msgid "Background color of the entire header area."
+msgstr ""
+
+#: ../vc/element/vc_theme_page_header_bottom.php:52
+msgid "Background image"
+msgstr ""
+
+#: ../vc/element/vc_theme_page_header_bottom.php:53
+msgid "Background image of the entire header area."
+msgstr ""
+
+#: ../vc/element/vc_theme_page_header_bottom.php:107
+msgid "Latest posts"
+msgstr ""
+
+#: ../vc/element/vc_theme_paragraph_large.php:15
+msgid "Paragraph large"
+msgstr ""
+
+#: ../vc/element/vc_theme_paragraph_large.php:16
+msgid "Creates paragraph with large text."
+msgstr ""
+
+#: ../vc/element/vc_theme_paragraph_large.php:25
+msgid "Content of the paragraph."
+msgstr ""
+
+#: ../vc/element/vc_theme_paragraph_large.php:33
+msgid "Select style of the paragraph."
+msgstr ""
+
+#: ../vc/element/vc_theme_process_list.php:15
+msgid "Process list"
+msgstr ""
+
+#: ../vc/element/vc_theme_process_list.php:16
+msgid "Creates process list."
+msgstr ""
+
+#: ../vc/element/vc_theme_process_list_item.php:14
+msgid "Process list item"
+msgstr ""
+
+#: ../vc/element/vc_theme_process_list_item.php:15
+msgid "Creates single process list item."
+msgstr ""
+
+#: ../vc/element/vc_theme_recent_post.php:11
+msgid "Recent posts"
+msgstr ""
+
+#: ../vc/element/vc_theme_recent_post.php:12
+msgid "Creates list of recent posts."
+msgstr ""
+
+#: ../vc/element/vc_theme_social_profile_list.php:13
+msgid "Social profiles list"
+msgstr ""
+
+#: ../vc/element/vc_theme_social_profile_list.php:14
+msgid "Creates list of social profiles."
+msgstr ""
+
+#: ../vc/element/vc_theme_social_profile_list.php:26
+msgid "Use data from Theme Options"
+msgstr ""
+
+#: ../vc/element/vc_theme_social_profile_list.php:27
+msgid ""
+"Enable or disable this option allows to use the data of social profiles "
+"defined in Theme Options. In this case you don't need to enter these details "
+"directly in component."
+msgstr ""
+
+#: ../vc/element/vc_theme_social_profile_list.php:30
+#: ../vc/element/vc_theme_tab.php:85 ../vc/element/vc_theme_tab.php:125
+msgid "Enable"
+msgstr ""
+
+#: ../vc/element/vc_theme_social_profile_list.php:31
+#: ../vc/element/vc_theme_tab.php:86 ../vc/element/vc_theme_tab.php:126
+msgid "Disable"
+msgstr ""
+
+#: ../vc/element/vc_theme_social_profile_list_item.php:14
+msgid "Social profiles list item"
+msgstr ""
+
+#: ../vc/element/vc_theme_social_profile_list_item.php:15
+msgid "Creates single social profile."
+msgstr ""
+
+#: ../vc/element/vc_theme_social_profile_list_item.php:23
+msgid "Social profile"
+msgstr ""
+
+#: ../vc/element/vc_theme_social_profile_list_item.php:24
+msgid "Select social profile."
+msgstr ""
+
+#: ../vc/element/vc_theme_social_profile_list_item.php:33
+msgid "URL address of the social profile."
+msgstr ""
+
+#: ../vc/element/vc_theme_tab.php:15
+msgid "Tabs"
+msgstr ""
+
+#: ../vc/element/vc_theme_tab.php:16
+msgid "Creates tabs"
+msgstr ""
+
+#: ../vc/element/vc_theme_tab.php:27
+msgid "Active"
+msgstr ""
+
+#: ../vc/element/vc_theme_tab.php:28
+msgid ""
+"The zero-based index of the panel that is active (open). Allowed are integer "
+"numbers from 0 to 999."
+msgstr ""
+
+#: ../vc/element/vc_theme_tab.php:35
+msgid "Close at start"
+msgstr ""
+
+#: ../vc/element/vc_theme_tab.php:36
+msgid "This option determines if panels are closed at start."
+msgstr ""
+
+#: ../vc/element/vc_theme_tab.php:39 ../vc/element/vc_theme_tab.php:53
+msgid "Yes"
+msgstr ""
+
+#: ../vc/element/vc_theme_tab.php:40 ../vc/element/vc_theme_tab.php:54
+msgid "No"
+msgstr ""
+
+#: ../vc/element/vc_theme_tab.php:49
+msgid "Collapsible"
+msgstr ""
+
+#: ../vc/element/vc_theme_tab.php:50
+msgid "This option determines if the active panel can be closed."
+msgstr ""
+
+#: ../vc/element/vc_theme_tab.php:63
+msgid "Height style"
+msgstr ""
+
+#: ../vc/element/vc_theme_tab.php:64
+msgid "Controls the height of the tabs and each panel."
+msgstr ""
+
+#: ../vc/element/vc_theme_tab.php:81
+msgid "Animation (on open)"
+msgstr ""
+
+#: ../vc/element/vc_theme_tab.php:82
+msgid "Enable or disable animation (on open) of tabs."
+msgstr ""
+
+#: ../vc/element/vc_theme_tab.php:89 ../vc/element/vc_theme_tab.php:97
+#: ../vc/element/vc_theme_tab.php:105 ../vc/element/vc_theme_tab.php:115
+#: ../vc/element/vc_theme_tab.php:129 ../vc/element/vc_theme_tab.php:137
+#: ../vc/element/vc_theme_tab.php:145 ../vc/element/vc_theme_tab.php:155
+msgid "Animation"
+msgstr ""
+
+#: ../vc/element/vc_theme_tab.php:95
+msgid "Animation duration (on open)"
+msgstr ""
+
+#: ../vc/element/vc_theme_tab.php:96
+msgid ""
+"Duration of animation (on open) in miliseconds. Allowed are integer numbers "
+"from 0 to 999999."
+msgstr ""
+
+#: ../vc/element/vc_theme_tab.php:103
+msgid "Animation delay (on open)"
+msgstr ""
+
+#: ../vc/element/vc_theme_tab.php:104
+msgid ""
+"Delay of animation (on open) in miliseconds. Allowed are integer numbers "
+"from 0 to 999999."
+msgstr ""
+
+#: ../vc/element/vc_theme_tab.php:111
+msgid "Easing (on open)"
+msgstr ""
+
+#: ../vc/element/vc_theme_tab.php:112
+msgid "Easing of animation (on open)."
+msgstr ""
+
+#: ../vc/element/vc_theme_tab.php:121
+msgid "Animation (on close)"
+msgstr ""
+
+#: ../vc/element/vc_theme_tab.php:122
+msgid "Enable or disable animation (on close) of tabs."
+msgstr ""
+
+#: ../vc/element/vc_theme_tab.php:135
+msgid "Animation duration (on close)"
+msgstr ""
+
+#: ../vc/element/vc_theme_tab.php:136
+msgid ""
+"Duration of animation (on close) in miliseconds. Allowed are integer numbers "
+"from 0 to 999999."
+msgstr ""
+
+#: ../vc/element/vc_theme_tab.php:143
+msgid "Animation delay (on close)"
+msgstr ""
+
+#: ../vc/element/vc_theme_tab.php:144
+msgid ""
+"Delay of animation (on close) in miliseconds. Allowed are integer numbers "
+"from 0 to 999999."
+msgstr ""
+
+#: ../vc/element/vc_theme_tab.php:151
+msgid "Easing (on close)"
+msgstr ""
+
+#: ../vc/element/vc_theme_tab.php:152
+msgid "Easing of animation (on close)."
+msgstr ""
+
+#: ../vc/element/vc_theme_tab_item.php:14
+msgid "Tab item"
+msgstr ""
+
+#: ../vc/element/vc_theme_tab_item.php:15
+msgid "Creates single tab item"
+msgstr ""
+
+#: ../vc/element/vc_theme_testimonial_list.php:14
+msgid "Testimonials list"
+msgstr ""
+
+#: ../vc/element/vc_theme_testimonial_list.php:15
+msgid "Creates testimonials list."
+msgstr ""
+
+#: ../vc/element/vc_theme_testimonial_list.php:27
+msgid "Select style of the testimonials."
+msgstr ""
+
+#: ../vc/element/vc_theme_testimonial_list_item.php:11
+msgid "Testimonials list item"
+msgstr ""
+
+#: ../vc/element/vc_theme_testimonial_list_item.php:12
+msgid "Creates single item of testimonials list."
+msgstr ""
+
+#: ../vc/element/vc_theme_testimonial_list_item.php:20
+msgid "Testimonial"
+msgstr ""
+
+#: ../vc/element/vc_theme_testimonial_list_item.php:21
+msgid "Enter testimonial of item."
+msgstr ""
+
+#: ../vc/element/vc_theme_testimonial_list_item.php:28
+msgid "Enter author of testimonial."
+msgstr ""
+
+#: ../vc/element/vc_theme_vehicle_list.php:11
+msgid "Vehicles list"
+msgstr ""
+
+#: ../vc/element/vc_theme_vehicle_list.php:12
+msgid "Creates list of vehicles."
+msgstr ""
+
+#: ../vc/element/vc_theme_vehicle_list.php:20
+msgid "Vehicle IDs"
+msgstr ""
+
+#: ../vc/element/vc_theme_vehicle_list.php:21
+msgid "ID of vehicles separated by comma."
+msgstr ""
+
+#: ../vc/element/vc_theme_work_experience_list.php:11
+msgid "Work experience list"
+msgstr ""
+
+#: ../vc/element/vc_theme_work_experience_list.php:12
+msgid "Creates list of experiences."
+msgstr ""
+
+#: ../vc/element/vc_theme_work_experience_list_item.php:11
+msgid "Work experience list item"
+msgstr ""
+
+#: ../vc/element/vc_theme_work_experience_list_item.php:12
+msgid "Creates single item of work experience list."
+msgstr ""
+
+#: ../vc/element/vc_theme_work_experience_list_item.php:22
+msgid "Enter duration in months/years etc, e.g: 2."
+msgstr ""
+
+#: ../vc/element/vc_theme_work_experience_list_item.php:29
+msgid "Duration unit"
+msgstr ""
+
+#: ../vc/element/vc_theme_work_experience_list_item.php:30
+msgid "Enter name of duartion unit e.g: months, years."
+msgstr ""
+
+#: ../vc/element/vc_theme_work_experience_list_item.php:37
+msgid "Period"
+msgstr ""
+
+#: ../vc/element/vc_theme_work_experience_list_item.php:38
+msgid "Enter period, e.g: From 2015 to 2017."
+msgstr ""
+
+#: ../vc/element/vc_theme_work_experience_list_item.php:46
+msgid "Position"
+msgstr ""
+
+#: ../vc/element/vc_theme_work_experience_list_item.php:47
+msgid "Enter position, e.g: Driver."
+msgstr ""

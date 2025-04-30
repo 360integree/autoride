@@ -1,0 +1,3257 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Auto Spa - Car Wash Auto Detail WordPress Theme\n"
+"POT-Creation-Date: 2020-02-18 10:13+0100\n"
+"PO-Revision-Date: 2017-06-12 10:01+0200\n"
+"Last-Translator: \n"
+"Language-Team: QuanticaLabs <quanticalabs@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-KeywordsList: esc_html_e;esc_html__;esc_attr_e;esc_attr__;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:9
+msgid "Error 404. Page Not Found."
+msgstr ""
+
+#: ../404.php:10
+msgid "The page are you looking for can not be found."
+msgstr ""
+
+#: ../404.php:12
+msgid "Back To Home"
+msgstr ""
+
+#: ../blog-classic-content.php:69 ../blog-classic-content.php:85
+#: ../blog-column-content.php:75 ../class/Theme.Feature.class.php:62
+#: ../class/Theme.Notice.class.php:46 ../woocommerce/cart/cart-empty.php:28
+#: ../woocommerce/checkout/thankyou.php:39
+#: ../woocommerce/loop/no-products-found.php:25
+#: ../woocommerce/myaccount/downloads.php:41
+#: ../woocommerce/myaccount/orders.php:102 ../woocommerce/notices/error.php:35
+#: ../woocommerce/single-product-reviews.php:69
+msgid "Error"
+msgstr ""
+
+#: ../blog-classic-content.php:69 ../blog-classic-content.php:86
+#: ../blog-column-content.php:75 ../blog-column-content.php:81
+msgid "Sorry, no posts where found. Try searching for something else."
+msgstr ""
+
+#: ../class/Theme.Accordion.class.php:14 ../class/Theme.Tab.class.php:14
+msgid "[Auto] All panels will be set to the height of the tallest panel"
+msgstr ""
+
+#: ../class/Theme.Accordion.class.php:15
+msgid ""
+"[Fill] Expand to the available height based on the accordion's parent height"
+msgstr ""
+
+#: ../class/Theme.Accordion.class.php:16 ../class/Theme.Tab.class.php:15
+msgid "[Content] Each panel will be only as tall as its content"
+msgstr ""
+
+#: ../class/Theme.Align.class.php:14 ../class/Theme.CarouFredSel.class.php:34
+#: ../class/Theme.FeatureCircle.class.php:17
+msgid "Left"
+msgstr ""
+
+#: ../class/Theme.Align.class.php:15
+msgid "Center"
+msgstr ""
+
+#: ../class/Theme.Align.class.php:16 ../class/Theme.CarouFredSel.class.php:35
+#: ../class/Theme.FeatureCircle.class.php:15
+msgid "Right"
+msgstr ""
+
+#: ../class/Theme.Background.class.php:14 ../class/Theme.Border.class.php:14
+#: ../class/Theme.CarouFredSel.class.php:14
+#: ../class/Theme.Fancybox.class.php:16
+msgid "None"
+msgstr ""
+
+#: ../class/Theme.Background.class.php:15 ../class/Theme.Post.class.php:14
+msgid "Image"
+msgstr ""
+
+#: ../class/Theme.Background.class.php:16
+msgid "Revolution slider"
+msgstr ""
+
+#: ../class/Theme.Background.class.php:21
+msgid "no-repeat"
+msgstr ""
+
+#: ../class/Theme.Background.class.php:22
+msgid "repeat-y"
+msgstr ""
+
+#: ../class/Theme.Background.class.php:23
+msgid "repeat-x"
+msgstr ""
+
+#: ../class/Theme.Background.class.php:24
+msgid "repeat"
+msgstr ""
+
+#: ../class/Theme.Background.class.php:25
+#: ../class/Theme.Background.class.php:36
+#: ../class/Theme.Background.class.php:45
+#: ../class/Theme.Background.class.php:54
+#: ../class/Theme.Background.class.php:63 ../class/Theme.CSS.class.php:25
+#: ../class/Theme.CSS.class.php:32
+msgid "inherit"
+msgstr ""
+
+#: ../class/Theme.Background.class.php:30
+msgid "auto"
+msgstr ""
+
+#: ../class/Theme.Background.class.php:31
+msgid "length"
+msgstr ""
+
+#: ../class/Theme.Background.class.php:32
+msgid "percentage"
+msgstr ""
+
+#: ../class/Theme.Background.class.php:33
+msgid "cover"
+msgstr ""
+
+#: ../class/Theme.Background.class.php:34
+msgid "contain"
+msgstr ""
+
+#: ../class/Theme.Background.class.php:35
+#: ../class/Theme.Background.class.php:44
+#: ../class/Theme.Background.class.php:53
+#: ../class/Theme.Background.class.php:62
+msgid "initial"
+msgstr ""
+
+#: ../class/Theme.Background.class.php:41
+#: ../class/Theme.Background.class.php:51
+msgid "padding-box"
+msgstr ""
+
+#: ../class/Theme.Background.class.php:42
+#: ../class/Theme.Background.class.php:50
+msgid "border-box"
+msgstr ""
+
+#: ../class/Theme.Background.class.php:43
+#: ../class/Theme.Background.class.php:52
+msgid "content-box"
+msgstr ""
+
+#: ../class/Theme.Background.class.php:59
+msgid "scroll"
+msgstr ""
+
+#: ../class/Theme.Background.class.php:60
+msgid "fixed"
+msgstr ""
+
+#: ../class/Theme.Background.class.php:61
+msgid "local"
+msgstr ""
+
+#: ../class/Theme.Background.class.php:73 ../class/Theme.Helper.class.php:220
+#: ../class/Theme.Helper.class.php:258 ../class/Theme.Helper.class.php:375
+#: ../class/Theme.Menu.class.php:23 ../class/Theme.Page.class.php:127
+#: ../class/Theme.ResponsiveMode.class.php:41
+#: ../class/Theme.RevolutionSlider.class.php:34
+#: ../class/Theme.Templatica.class.php:31
+#: ../class/Theme.WidgetArea.class.php:14
+#: ../class/Theme.WidgetArea.class.php:100
+#: ../class/Theme.WidgetArea.class.php:121 ../template/admin/general_page.php:8
+msgid "[None]"
+msgstr ""
+
+#: ../class/Theme.Background.class.php:74 ../class/Theme.Helper.class.php:376
+#: ../class/Theme.Menu.class.php:24 ../class/Theme.Page.class.php:128
+#: ../class/Theme.ResponsiveMode.class.php:42
+#: ../class/Theme.RevolutionSlider.class.php:35
+#: ../class/Theme.Templatica.class.php:32
+#: ../class/Theme.WidgetArea.class.php:101
+#: ../class/Theme.WidgetArea.class.php:122
+#: ../template/admin/meta_box_post_element.php:17
+msgid "[Use global settings]"
+msgstr ""
+
+#: ../class/Theme.Background.class.php:75 ../class/Theme.Helper.class.php:377
+#: ../class/Theme.ResponsiveMode.class.php:43
+#: ../class/Theme.WidgetArea.class.php:102
+#: ../class/Theme.WidgetArea.class.php:123
+msgid "[Left unchanged]"
+msgstr ""
+
+#: ../class/Theme.Blockquote.class.php:14 ../class/Theme.Button.class.php:14
+#: ../class/Theme.CallToAction.class.php:14
+#: ../class/Theme.DriverList.class.php:14 ../class/Theme.Feature.class.php:14
+#: ../class/Theme.List.class.php:14 ../class/Theme.MetaIcon.class.php:14
+#: ../class/Theme.Paragraph.class.php:14
+#: ../class/Theme.SocialProfile.class.php:14
+#: ../class/Theme.Testimonial.class.php:14
+msgid "Style 1"
+msgstr ""
+
+#: ../class/Theme.Blockquote.class.php:15 ../class/Theme.Button.class.php:15
+#: ../class/Theme.CallToAction.class.php:15
+#: ../class/Theme.DriverList.class.php:15 ../class/Theme.Feature.class.php:15
+#: ../class/Theme.List.class.php:15 ../class/Theme.MetaIcon.class.php:15
+#: ../class/Theme.Paragraph.class.php:15
+#: ../class/Theme.SocialProfile.class.php:15
+#: ../class/Theme.Testimonial.class.php:15
+msgid "Style 2"
+msgstr ""
+
+#: ../class/Theme.Blog.class.php:14
+msgid "Post ID"
+msgstr ""
+
+#: ../class/Theme.Blog.class.php:15
+msgid "Post date"
+msgstr ""
+
+#: ../class/Theme.Blog.class.php:16
+msgid "Post title"
+msgstr ""
+
+#: ../class/Theme.Blog.class.php:21
+msgid "Ascending"
+msgstr ""
+
+#: ../class/Theme.Blog.class.php:22
+msgid "Descending"
+msgstr ""
+
+#: ../class/Theme.Blog.class.php:50
+msgid " [...]"
+msgstr ""
+
+#: ../class/Theme.Border.class.php:15
+msgid "Hidden"
+msgstr ""
+
+#: ../class/Theme.Border.class.php:16
+msgid "Dotted"
+msgstr ""
+
+#: ../class/Theme.Border.class.php:17
+msgid "Dashed"
+msgstr ""
+
+#: ../class/Theme.Border.class.php:18
+msgid "Solid"
+msgstr ""
+
+#: ../class/Theme.Border.class.php:19
+msgid "Double"
+msgstr ""
+
+#: ../class/Theme.Border.class.php:20
+msgid "Groove"
+msgstr ""
+
+#: ../class/Theme.Border.class.php:21
+msgid "Ridge"
+msgstr ""
+
+#: ../class/Theme.Border.class.php:22
+msgid "Inset"
+msgstr ""
+
+#: ../class/Theme.Border.class.php:23
+msgid "Outset"
+msgstr ""
+
+#: ../class/Theme.Border.class.php:24
+msgid "Inherit"
+msgstr ""
+
+#: ../class/Theme.Button.class.php:16 ../class/Theme.Feature.class.php:16
+#: ../class/Theme.List.class.php:16 ../class/Theme.MetaIcon.class.php:16
+#: ../class/Theme.SocialProfile.class.php:16
+msgid "Style 3"
+msgstr ""
+
+#: ../class/Theme.Button.class.php:17
+msgid "Style 4"
+msgstr ""
+
+#: ../class/Theme.CSS.class.php:14
+msgid "100"
+msgstr ""
+
+#: ../class/Theme.CSS.class.php:15
+msgid "200"
+msgstr ""
+
+#: ../class/Theme.CSS.class.php:16
+msgid "300"
+msgstr ""
+
+#: ../class/Theme.CSS.class.php:17
+msgid "400"
+msgstr ""
+
+#: ../class/Theme.CSS.class.php:18
+msgid "500"
+msgstr ""
+
+#: ../class/Theme.CSS.class.php:19
+msgid "600"
+msgstr ""
+
+#: ../class/Theme.CSS.class.php:20
+msgid "700"
+msgstr ""
+
+#: ../class/Theme.CSS.class.php:21
+msgid "800"
+msgstr ""
+
+#: ../class/Theme.CSS.class.php:22
+msgid "900"
+msgstr ""
+
+#: ../class/Theme.CSS.class.php:23
+msgid "bold"
+msgstr ""
+
+#: ../class/Theme.CSS.class.php:24
+msgid "bolder"
+msgstr ""
+
+#: ../class/Theme.CSS.class.php:26
+msgid "lighter"
+msgstr ""
+
+#: ../class/Theme.CSS.class.php:27 ../class/Theme.CSS.class.php:34
+msgid "normal"
+msgstr ""
+
+#: ../class/Theme.CSS.class.php:33
+msgid "italic"
+msgstr ""
+
+#: ../class/Theme.CSS.class.php:35
+msgid "oblique"
+msgstr ""
+
+#: ../class/Theme.CarouFredSel.class.php:15
+msgid "Scroll"
+msgstr ""
+
+#: ../class/Theme.CarouFredSel.class.php:16
+msgid "Directscroll"
+msgstr ""
+
+#: ../class/Theme.CarouFredSel.class.php:17
+#: ../class/Theme.Fancybox.class.php:15
+msgid "Fade"
+msgstr ""
+
+#: ../class/Theme.CarouFredSel.class.php:18
+msgid "Crossfade"
+msgstr ""
+
+#: ../class/Theme.CarouFredSel.class.php:19
+msgid "Cover"
+msgstr ""
+
+#: ../class/Theme.CarouFredSel.class.php:20
+msgid "Cover-fade"
+msgstr ""
+
+#: ../class/Theme.CarouFredSel.class.php:21
+msgid "Uncover"
+msgstr ""
+
+#: ../class/Theme.CarouFredSel.class.php:22
+msgid "Uncover-fade"
+msgstr ""
+
+#: ../class/Theme.CarouFredSel.class.php:27
+msgid "Resume"
+msgstr ""
+
+#: ../class/Theme.CarouFredSel.class.php:28
+msgid "Immediate"
+msgstr ""
+
+#: ../class/Theme.CarouFredSel.class.php:29
+msgid "Immediate and resume"
+msgstr ""
+
+#: ../class/Theme.Comment.class.php:49
+msgid "Please enter your name."
+msgstr ""
+
+#: ../class/Theme.Comment.class.php:55
+msgid "Please enter valid e-mail address."
+msgstr ""
+
+#: ../class/Theme.Comment.class.php:61
+msgid "Please enter valid URL address."
+msgstr ""
+
+#: ../class/Theme.Comment.class.php:68
+msgid "Please enter your message."
+msgstr ""
+
+#: ../class/Theme.Comment.class.php:130
+msgid "Your comment has been added."
+msgstr ""
+
+#: ../class/Theme.Comment.class.php:135
+msgid "Your comment could not be added."
+msgstr ""
+
+#: ../class/Theme.Comment.class.php:172
+msgid "to"
+msgstr ""
+
+#: ../class/Theme.Comment.class.php:201
+msgid "Reply"
+msgstr ""
+
+#: ../class/Theme.Comment.class.php:217
+#, php-format
+msgid " %1$s at %2$s"
+msgstr ""
+
+#: ../class/Theme.Comment.class.php:279
+msgid "More ..."
+msgstr ""
+
+#: ../class/Theme.Comment.class.php:279
+msgid "Less ..."
+msgstr ""
+
+#: ../class/Theme.Easing.class.php:14
+msgid "swing"
+msgstr ""
+
+#: ../class/Theme.Easing.class.php:15
+msgid "easeInQuad"
+msgstr ""
+
+#: ../class/Theme.Easing.class.php:16
+msgid "easeOutQuad"
+msgstr ""
+
+#: ../class/Theme.Easing.class.php:17
+msgid "easeInOutQuad"
+msgstr ""
+
+#: ../class/Theme.Easing.class.php:18
+msgid "easeInCubic"
+msgstr ""
+
+#: ../class/Theme.Easing.class.php:19
+msgid "easeOutCubic"
+msgstr ""
+
+#: ../class/Theme.Easing.class.php:20
+msgid "easeInOutCubic"
+msgstr ""
+
+#: ../class/Theme.Easing.class.php:21
+msgid "easeInQuart"
+msgstr ""
+
+#: ../class/Theme.Easing.class.php:22
+msgid "easeOutQuart"
+msgstr ""
+
+#: ../class/Theme.Easing.class.php:23 ../class/Theme.Easing.class.php:24
+msgid "easeInOutQuart"
+msgstr ""
+
+#: ../class/Theme.Easing.class.php:25
+msgid "easeInQuint"
+msgstr ""
+
+#: ../class/Theme.Easing.class.php:26
+msgid "easeOutQuint"
+msgstr ""
+
+#: ../class/Theme.Easing.class.php:27
+msgid "easeInOutQuint"
+msgstr ""
+
+#: ../class/Theme.Easing.class.php:28
+msgid "easeInSine"
+msgstr ""
+
+#: ../class/Theme.Easing.class.php:29
+msgid "easeOutSine"
+msgstr ""
+
+#: ../class/Theme.Easing.class.php:30
+msgid "easeInOutSine"
+msgstr ""
+
+#: ../class/Theme.Easing.class.php:31
+msgid "easeInExpo"
+msgstr ""
+
+#: ../class/Theme.Easing.class.php:32
+msgid "easeOutExpo"
+msgstr ""
+
+#: ../class/Theme.Easing.class.php:33
+msgid "easeInOutExpo"
+msgstr ""
+
+#: ../class/Theme.Easing.class.php:34
+msgid "easeInCirc"
+msgstr ""
+
+#: ../class/Theme.Easing.class.php:35
+msgid "easeOutCirc"
+msgstr ""
+
+#: ../class/Theme.Easing.class.php:36
+msgid "easeInOutCirc"
+msgstr ""
+
+#: ../class/Theme.Easing.class.php:37
+msgid "easeInElastic"
+msgstr ""
+
+#: ../class/Theme.Easing.class.php:38
+msgid "easeOutElastic"
+msgstr ""
+
+#: ../class/Theme.Easing.class.php:39
+msgid "easeInOutElastic"
+msgstr ""
+
+#: ../class/Theme.Easing.class.php:40
+msgid "easeInBack"
+msgstr ""
+
+#: ../class/Theme.Easing.class.php:41
+msgid "easeOutBack"
+msgstr ""
+
+#: ../class/Theme.Easing.class.php:42
+msgid "easeInOutBack"
+msgstr ""
+
+#: ../class/Theme.Easing.class.php:43
+msgid "easeInBounce"
+msgstr ""
+
+#: ../class/Theme.Easing.class.php:44
+msgid "easeOutBounce"
+msgstr ""
+
+#: ../class/Theme.Easing.class.php:45
+msgid "easeInOutBounce"
+msgstr ""
+
+#: ../class/Theme.Fancybox.class.php:14
+msgid "Elastic"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:21
+msgid "Account"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:22
+msgid "Airplane"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:23
+msgid "Ambulance"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:24
+msgid "Award"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:25
+msgid "Bag 1"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:26
+msgid "Bag 2"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:27
+msgid "Beach"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:28
+msgid "Boat"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:29
+msgid "Box truck"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:30
+msgid "Bus 1"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:31
+msgid "Bus 2"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:32
+msgid "Calculator"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:33
+msgid "Calendar"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:34
+msgid "Camper"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:35
+msgid "Car 1"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:36
+msgid "Car 2"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:37
+msgid "Car 3"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:38
+msgid "Car 4"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:39
+msgid "Car 5"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:40
+msgid "Car 6"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:41
+msgid "Car 7"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:42
+msgid "Car check"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:43
+msgid "Car key"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:44
+msgid "Cart bag"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:45
+msgid "Certificate"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:46
+msgid "Chat"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:47
+msgid "Check"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:48
+msgid "City 1"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:49
+msgid "City 2"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:50 ../class/Theme.MetaIcon.class.php:28
+msgid "Clock"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:51
+msgid "Colosseum"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:52
+msgid "Compass"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:53
+msgid "Country side"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:54
+msgid "Credit card"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:55
+msgid "Delivery"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:56
+msgid "Disabled"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:57
+msgid "Document"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:58
+msgid "Driver"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:59
+msgid "Email 1"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:60
+msgid "Email 2"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:61
+msgid "Email 3"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:63
+msgid "Fax"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:64
+msgid "Food truck"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:65
+msgid "Garage"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:66
+msgid "Globe search"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:67
+msgid "Hand bag"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:68
+msgid "Helicopter"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:69
+msgid "Help"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:70
+msgid "House"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:71
+msgid "Infomation"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:72
+msgid "Leaf"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:73
+msgid "Lighthouse"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:74
+msgid "Location 1"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:75
+msgid "Location 2"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:76
+msgid "Location 3"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:77
+msgid "Map"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:78
+msgid "Map search"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:79
+msgid "Medical bed"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:80
+msgid "Network"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:81
+msgid "Network search"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:82
+msgid "Office"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:83
+msgid "Paper plane"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:84
+msgid "Party"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:85
+msgid "Pen"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:86
+msgid "Pencil"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:87
+msgid "People"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:88
+msgid "Phone 1"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:89
+msgid "Phone 3"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:90
+msgid "Picture"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:91 ../woocommerce/cart/cart.php:29
+#: ../woocommerce/cart/cart.php:89
+msgid "Price"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:92
+msgid "Radioactive truck"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:93
+msgid "Recurring 1"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:94
+msgid "Recurring 2"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:95
+msgid "Road"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:96
+msgid "Road pin"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:97
+msgid "Route 1"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:98
+msgid "Route 2"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:99
+msgid "Share time"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:100
+msgid "Ship 1"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:101
+msgid "Ship 2"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:102
+msgid "Sign"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:103
+msgid "Sport"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:104
+msgid "Sync"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:105
+msgid "Testimonials 1"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:106
+msgid "Testimonials 2"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:107
+msgid "Timetable"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:108
+msgid "Train"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:109
+msgid "Truck"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:110
+msgid "Truck dump"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:111
+msgid "Vip"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:112
+msgid "Wallet"
+msgstr ""
+
+#: ../class/Theme.Feature.class.php:113
+msgid "Warning"
+msgstr ""
+
+#: ../class/Theme.FeatureCircle.class.php:14
+msgid "Top"
+msgstr ""
+
+#: ../class/Theme.FeatureCircle.class.php:16
+msgid "Bottom"
+msgstr ""
+
+#: ../class/Theme.Gallery.class.php:14
+msgid "25%"
+msgstr ""
+
+#: ../class/Theme.Gallery.class.php:15
+msgid "50%"
+msgstr ""
+
+#: ../class/Theme.GoogleMap.class.php:14 ../class/Theme.GoogleMap.class.php:21
+#: ../class/Theme.Skin.class.php:22 ../class/Theme.WidgetArea.class.php:29
+msgid "Default"
+msgstr ""
+
+#: ../class/Theme.GoogleMap.class.php:15
+msgid "Small"
+msgstr ""
+
+#: ../class/Theme.GoogleMap.class.php:16
+msgid "Large"
+msgstr ""
+
+#: ../class/Theme.GoogleMap.class.php:22
+msgid "Horizontal Bar"
+msgstr ""
+
+#: ../class/Theme.GoogleMap.class.php:23
+msgid "Dropdown Menu"
+msgstr ""
+
+#: ../class/Theme.GoogleMap.class.php:28
+msgid "Top center"
+msgstr ""
+
+#: ../class/Theme.GoogleMap.class.php:29
+msgid "Top left"
+msgstr ""
+
+#: ../class/Theme.GoogleMap.class.php:30
+msgid "Top right"
+msgstr ""
+
+#: ../class/Theme.GoogleMap.class.php:31
+msgid "Left top"
+msgstr ""
+
+#: ../class/Theme.GoogleMap.class.php:32
+msgid "Right top"
+msgstr ""
+
+#: ../class/Theme.GoogleMap.class.php:33
+msgid "Left center"
+msgstr ""
+
+#: ../class/Theme.GoogleMap.class.php:34
+msgid "Right center"
+msgstr ""
+
+#: ../class/Theme.GoogleMap.class.php:35
+msgid "Left bottom"
+msgstr ""
+
+#: ../class/Theme.GoogleMap.class.php:36
+msgid "Right bottom"
+msgstr ""
+
+#: ../class/Theme.GoogleMap.class.php:37
+msgid "Bottom center"
+msgstr ""
+
+#: ../class/Theme.GoogleMap.class.php:38
+msgid "Bottom left"
+msgstr ""
+
+#: ../class/Theme.GoogleMap.class.php:39
+msgid "Bottom right"
+msgstr ""
+
+#: ../class/Theme.GoogleMap.class.php:44
+msgid "Roadmap"
+msgstr ""
+
+#: ../class/Theme.GoogleMap.class.php:45
+msgid "Satellite"
+msgstr ""
+
+#: ../class/Theme.GoogleMap.class.php:46
+msgid "Hybrid"
+msgstr ""
+
+#: ../class/Theme.GoogleMap.class.php:47
+msgid "Terrain"
+msgstr ""
+
+#: ../class/Theme.GoogleMap.class.php:48
+msgid "Custom styled map"
+msgstr ""
+
+#: ../class/Theme.Header.class.php:88
+msgid "AutoRide"
+msgstr ""
+
+#: ../class/Theme.Helper.class.php:221 ../class/Theme.Helper.class.php:259
+msgid "[Select]"
+msgstr ""
+
+#: ../class/Theme.Helper.class.php:222 ../class/Theme.Helper.class.php:260
+msgid "[Use default settings]"
+msgstr ""
+
+#: ../class/Theme.Helper.class.php:380
+#, php-format
+msgid "[Widget area] %s"
+msgstr ""
+
+#: ../class/Theme.Helper.class.php:382
+#, php-format
+msgid "[Template] %s"
+msgstr ""
+
+#: ../class/Theme.Image.class.php:14
+msgid "Image 900x400"
+msgstr ""
+
+#: ../class/Theme.Layout.class.php:14
+msgid "1/1"
+msgstr ""
+
+#: ../class/Theme.Layout.class.php:15
+msgid "1/2 + 1/2"
+msgstr ""
+
+#: ../class/Theme.Layout.class.php:16
+msgid "2/3 + 1/3"
+msgstr ""
+
+#: ../class/Theme.Layout.class.php:17
+msgid "1/3 + 1/3 + 1/3"
+msgstr ""
+
+#: ../class/Theme.Layout.class.php:18
+msgid "1/4 + 1/4 + 1/4 + 1/4"
+msgstr ""
+
+#: ../class/Theme.Layout.class.php:19
+msgid "1/4 + 3/4"
+msgstr ""
+
+#: ../class/Theme.Layout.class.php:20
+msgid "1/4 + 1/2 + 1/4"
+msgstr ""
+
+#: ../class/Theme.Layout.class.php:21
+msgid "5/6 + 1/6"
+msgstr ""
+
+#: ../class/Theme.Layout.class.php:22
+msgid "1/6 + 1/6 + 1/6 + 1/6 + 1/6 + 1/6"
+msgstr ""
+
+#: ../class/Theme.Layout.class.php:23
+msgid "1/6 + 4/6 + 1/6"
+msgstr ""
+
+#: ../class/Theme.Layout.class.php:24
+msgid "1/6 + 1/6 + 1/6 + 4/6"
+msgstr ""
+
+#: ../class/Theme.Menu.class.php:25 ../class/Theme.Page.class.php:129
+#: ../class/Theme.RevolutionSlider.class.php:36
+#: ../class/Theme.Templatica.class.php:33
+msgid "[Left unchaged]"
+msgstr ""
+
+#: ../class/Theme.MetaIcon.class.php:21
+msgid "Arrow horizontal"
+msgstr ""
+
+#: ../class/Theme.MetaIcon.class.php:22
+msgid "Arrow horizontal 2"
+msgstr ""
+
+#: ../class/Theme.MetaIcon.class.php:23
+msgid "Arrow horizontal 3"
+msgstr ""
+
+#: ../class/Theme.MetaIcon.class.php:24
+msgid "Arrow vertical"
+msgstr ""
+
+#: ../class/Theme.MetaIcon.class.php:25
+msgid "Arrow vertical 2"
+msgstr ""
+
+#: ../class/Theme.MetaIcon.class.php:26
+msgid "Arrow vertical 3"
+msgstr ""
+
+#: ../class/Theme.MetaIcon.class.php:27
+msgid "Cart"
+msgstr ""
+
+#: ../class/Theme.MetaIcon.class.php:29
+msgid "Close"
+msgstr ""
+
+#: ../class/Theme.MetaIcon.class.php:30
+msgid "Close large"
+msgstr ""
+
+#: ../class/Theme.MetaIcon.class.php:31 ../comment.php:47
+msgid "Comment"
+msgstr ""
+
+#: ../class/Theme.MetaIcon.class.php:32
+msgid "Display"
+msgstr ""
+
+#: ../class/Theme.MetaIcon.class.php:33 ../comment.php:27
+#: ../woocommerce/single-product-reviews.php:106
+msgid "Email"
+msgstr ""
+
+#: ../class/Theme.MetaIcon.class.php:34
+msgid "Folder"
+msgstr ""
+
+#: ../class/Theme.MetaIcon.class.php:35
+msgid "Location"
+msgstr ""
+
+#: ../class/Theme.MetaIcon.class.php:36
+msgid "Menu"
+msgstr ""
+
+#: ../class/Theme.MetaIcon.class.php:37
+msgid "Minus"
+msgstr ""
+
+#: ../class/Theme.MetaIcon.class.php:38
+msgid "Minus large"
+msgstr ""
+
+#: ../class/Theme.MetaIcon.class.php:39
+msgid "Mobile"
+msgstr ""
+
+#: ../class/Theme.MetaIcon.class.php:40
+msgid "Phone"
+msgstr ""
+
+#: ../class/Theme.MetaIcon.class.php:41
+msgid "Plus"
+msgstr ""
+
+#: ../class/Theme.MetaIcon.class.php:42
+msgid "Plus large"
+msgstr ""
+
+#: ../class/Theme.MetaIcon.class.php:43
+msgid "Quote"
+msgstr ""
+
+#: ../class/Theme.MetaIcon.class.php:44
+msgid "Search"
+msgstr ""
+
+#: ../class/Theme.MetaIcon.class.php:45
+msgid "Tag"
+msgstr ""
+
+#: ../class/Theme.MetaIcon.class.php:46
+msgid "Thin clock"
+msgstr ""
+
+#: ../class/Theme.MetaIcon.class.php:47
+msgid "Thin email 1"
+msgstr ""
+
+#: ../class/Theme.MetaIcon.class.php:48
+msgid "Thin email 2"
+msgstr ""
+
+#: ../class/Theme.MetaIcon.class.php:49
+msgid "Thin email 3"
+msgstr ""
+
+#: ../class/Theme.MetaIcon.class.php:50
+msgid "Thin fax"
+msgstr ""
+
+#: ../class/Theme.MetaIcon.class.php:51
+msgid "Thin location 1"
+msgstr ""
+
+#: ../class/Theme.MetaIcon.class.php:52
+msgid "Thin location 2"
+msgstr ""
+
+#: ../class/Theme.MetaIcon.class.php:53
+msgid "Thin location 3"
+msgstr ""
+
+#: ../class/Theme.MetaIcon.class.php:54
+msgid "Thin phone 1"
+msgstr ""
+
+#: ../class/Theme.MetaIcon.class.php:55
+msgid "Thin phone 2"
+msgstr ""
+
+#: ../class/Theme.MetaIcon.class.php:56
+msgid "Thin phone 3"
+msgstr ""
+
+#: ../class/Theme.MetaIcon.class.php:57
+msgid "Thin phone 4"
+msgstr ""
+
+#: ../class/Theme.MetaIcon.class.php:58
+msgid "Tick 1"
+msgstr ""
+
+#: ../class/Theme.MetaIcon.class.php:59
+msgid "Tick 2"
+msgstr ""
+
+#: ../class/Theme.MetaIcon.class.php:60
+msgid "Tick 3"
+msgstr ""
+
+#: ../class/Theme.Notice.class.php:47
+msgid "Changes can not be saved."
+msgstr ""
+
+#: ../class/Theme.Notice.class.php:51 ../woocommerce/notices/success.php:35
+msgid "Success"
+msgstr ""
+
+#: ../class/Theme.Notice.class.php:52
+msgid "All changes have been saved."
+msgstr ""
+
+#: ../class/Theme.Post.class.php:14
+msgid "image"
+msgstr ""
+
+#: ../class/Theme.Post.class.php:15
+msgid "Share section"
+msgstr ""
+
+#: ../class/Theme.Post.class.php:15
+msgid "share section"
+msgstr ""
+
+#: ../class/Theme.Post.class.php:16
+msgid "Date"
+msgstr ""
+
+#: ../class/Theme.Post.class.php:16
+msgid "date"
+msgstr ""
+
+#: ../class/Theme.Post.class.php:17
+msgid "Title"
+msgstr ""
+
+#: ../class/Theme.Post.class.php:17
+msgid "title"
+msgstr ""
+
+#: ../class/Theme.Post.class.php:18
+msgid "Excerpt"
+msgstr ""
+
+#: ../class/Theme.Post.class.php:18
+msgid "excerpt"
+msgstr ""
+
+#: ../class/Theme.Post.class.php:19 ../template/admin/admin.php:60
+#: ../template/admin/admin.php:69 ../template/admin/admin.php:81
+#: ../template/admin/admin.php:92 ../template/admin/meta_box_page_content.php:4
+#: ../template/admin/meta_box_post_content.php:4
+msgid "Content"
+msgstr ""
+
+#: ../class/Theme.Post.class.php:19
+msgid "content"
+msgstr ""
+
+#: ../class/Theme.Post.class.php:20
+msgid "Divider"
+msgstr ""
+
+#: ../class/Theme.Post.class.php:20
+msgid "divider"
+msgstr ""
+
+#: ../class/Theme.Post.class.php:21
+msgid "Meta"
+msgstr ""
+
+#: ../class/Theme.Post.class.php:21
+msgid "meta"
+msgstr ""
+
+#: ../class/Theme.Post.class.php:22
+msgid "Post navigation"
+msgstr ""
+
+#: ../class/Theme.Post.class.php:22
+msgid "post navigation"
+msgstr ""
+
+#: ../class/Theme.Post.class.php:23
+msgid "Posts related"
+msgstr ""
+
+#: ../class/Theme.Post.class.php:23
+msgid "posts related"
+msgstr ""
+
+#: ../class/Theme.Post.class.php:222 ../class/Theme.Post.class.php:529
+#, php-format
+msgid "View post \"%s\"."
+msgstr ""
+
+#: ../class/Theme.Post.class.php:268
+msgid "Share"
+msgstr ""
+
+#: ../class/Theme.Post.class.php:358 ../page-content.php:18
+#: ../woocommerce/myaccount/orders.php:89
+msgid "Previous"
+msgstr ""
+
+#: ../class/Theme.Post.class.php:359 ../page-content.php:19
+#: ../woocommerce/myaccount/orders.php:93
+msgid "Next"
+msgstr ""
+
+#: ../class/Theme.Post.class.php:409
+#, php-format
+msgid "View all posts from author \"%s\"."
+msgstr ""
+
+#: ../class/Theme.Post.class.php:419
+#, php-format
+msgid "View all posts from category \"%s\"."
+msgstr ""
+
+#: ../class/Theme.Post.class.php:438
+msgid "Comments: "
+msgstr ""
+
+#: ../class/Theme.Post.class.php:457
+#, php-format
+msgid "View all posts marked as \"%s\"."
+msgstr ""
+
+#: ../class/Theme.Post.class.php:564
+msgid "Related posts"
+msgstr ""
+
+#: ../class/Theme.Post.class.php:639
+#, php-format
+msgid "Search products for phrase <i>%s</i>"
+msgstr ""
+
+#: ../class/Theme.Post.class.php:650
+msgid "Latest posts"
+msgstr ""
+
+#: ../class/Theme.Post.class.php:703
+#, php-format
+msgid "Search Result for \"%s\""
+msgstr ""
+
+#: ../class/Theme.Tab.class.php:16
+msgid "[Fill] Expand to the available height based on the tabs' parent height"
+msgstr ""
+
+#: ../class/Theme.Video.class.php:14
+msgid "Vimeo"
+msgstr ""
+
+#: ../class/Theme.Video.class.php:15
+msgid "YouTube"
+msgstr ""
+
+#: ../class/Theme.WidgetArea.class.php:15
+msgid "Left sidebar"
+msgstr ""
+
+#: ../class/Theme.WidgetArea.class.php:16
+msgid "Right sidebar"
+msgstr ""
+
+#: ../class/Theme.WidgetArea.class.php:30
+msgid "Built-in default sidebar."
+msgstr ""
+
+#: ../class/Theme.Window.class.php:15
+msgid "Open page in the same frame"
+msgstr ""
+
+#: ../class/Theme.Window.class.php:16
+msgid "Open page in a new window"
+msgstr ""
+
+#: ../class/Theme.class.php:178
+#, php-format
+msgid "Color %s"
+msgstr ""
+
+#: ../class/Theme.class.php:180
+#, php-format
+msgid "Enter color in HEX for elements in group %s"
+msgstr ""
+
+#: ../class/Theme.class.php:586 ../template/admin/admin.php:16
+msgid "Theme Options"
+msgstr ""
+
+#: ../class/Theme.class.php:841
+msgid "Invalid value"
+msgstr ""
+
+#: ../class/Theme.class.php:1015
+msgid "All"
+msgstr ""
+
+#: ../class/Theme.class.php:1148
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../class/Theme.class.php:1149
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: ../class/Theme.class.php:1150
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../class/Theme.class.php:1151
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../class/Theme.class.php:1162
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../class/Theme.class.php:1163
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:394
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../class/Theme.class.php:1164
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../class/Theme.class.php:1261
+#, php-format
+msgid ""
+"<b>File %s cannot be created. Please make sure that this location is "
+"writeable.</b>"
+msgstr ""
+
+#: ../class/Theme.class.php:1262
+msgid "Dismiss"
+msgstr ""
+
+#: ../class/Theme.class.php:1296
+msgid ""
+"This content is password protected.<br/>To view it please enter your "
+"password below:"
+msgstr ""
+
+#: ../class/Theme.class.php:1298
+msgid "Password:"
+msgstr ""
+
+#: ../class/Theme.class.php:1302 ../woocommerce/single-product-reviews.php:92
+msgid "Submit"
+msgstr ""
+
+#: ../comment.php:16 ../woocommerce/single-product-reviews.php:100
+msgid "Name"
+msgstr ""
+
+#: ../comment.php:37
+msgid "Website"
+msgstr ""
+
+#: ../comment.php:58
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../comment.php:59
+msgid "Cancel Reply"
+msgstr ""
+
+#: ../comment.php:62
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../comments.php:9 ../template/admin/admin.php:49
+msgid "Comments"
+msgstr ""
+
+#: ../config/1/tf_config.php:11
+msgid "<i>[01]</i>Base"
+msgstr ""
+
+#: ../config/1/tf_config.php:12
+msgid "Usage:<br/>- base font."
+msgstr ""
+
+#: ../config/1/tf_config.php:38
+msgid "<i>[02]</i>Header H1"
+msgstr ""
+
+#: ../config/1/tf_config.php:39
+msgid "Usage:<br/>- header H1."
+msgstr ""
+
+#: ../config/1/tf_config.php:62
+msgid "<i>[03]</i>Header H2"
+msgstr ""
+
+#: ../config/1/tf_config.php:63
+msgid "Usage:<br/>- header H2."
+msgstr ""
+
+#: ../config/1/tf_config.php:85
+msgid "<i>[04]</i>Header H3"
+msgstr ""
+
+#: ../config/1/tf_config.php:86
+msgid "Usage:<br/>- header H3."
+msgstr ""
+
+#: ../config/1/tf_config.php:108
+msgid "<i>[05]</i>Header H4"
+msgstr ""
+
+#: ../config/1/tf_config.php:109
+msgid ""
+"Usage:<br/>- header H4,<br/>- header of item in \"Gallery\" component,<br/>- "
+"header of item in \"Recent posts\" component,<br>- header of item in vehicle "
+"list,<br/>- header of \"Notice\" component,<br/>- content of \"Features"
+"\" (style 2) item component,<br/>- item header of component \"Features circle"
+"\",<br/>- subheader of component \"Header and subheader\"."
+msgstr ""
+
+#: ../config/1/tf_config.php:141
+msgid "<i>[06]</i>Header H5"
+msgstr ""
+
+#: ../config/1/tf_config.php:142
+msgid "Usage:<br/>- header H5,<br/>- price of product."
+msgstr ""
+
+#: ../config/1/tf_config.php:171
+msgid "<i>[07]</i>Header H6"
+msgstr ""
+
+#: ../config/1/tf_config.php:172
+msgid "Usage:<br/>- header H6."
+msgstr ""
+
+#: ../config/1/tf_config.php:196
+msgid "<i>[08]</i>Header II"
+msgstr ""
+
+#: ../config/1/tf_config.php:197
+msgid "Usage:<br/>- post header."
+msgstr ""
+
+#: ../config/1/tf_config.php:223
+msgid "<i>[09]</i>Header III"
+msgstr ""
+
+#: ../config/1/tf_config.php:224
+msgid "Usage:<br/>- value of item in \"Counter boxes\" component."
+msgstr ""
+
+#: ../config/1/tf_config.php:246
+msgid "<i>[1]</i>Header IV"
+msgstr ""
+
+#: ../config/1/tf_config.php:247
+msgid "Usage:<br/>- header style I."
+msgstr ""
+
+#: ../config/1/tf_config.php:268
+msgid "<i>[11]</i>Header V"
+msgstr ""
+
+#: ../config/1/tf_config.php:269
+msgid "Usage:<br/>- item header of \"Features\" (style 2) component."
+msgstr ""
+
+#: ../config/1/tf_config.php:292
+msgid "<i>[12]</i>Header VI"
+msgstr ""
+
+#: ../config/1/tf_config.php:293
+msgid "Usage:<br/>- header of page placed on background image."
+msgstr ""
+
+#: ../config/1/tf_config.php:314
+msgid "<i>[13]</i>Header VII"
+msgstr ""
+
+#: ../config/1/tf_config.php:315
+msgid "Usage:<br/>- page subheader (bread crumbs) placed on background image."
+msgstr ""
+
+#: ../config/1/tf_config.php:339
+msgid "<i>[14]</i>Header VIII"
+msgstr ""
+
+#: ../config/1/tf_config.php:340
+msgid "Usage:<br/>- header H2 for component \"Header & subheader\"."
+msgstr ""
+
+#: ../config/1/tf_config.php:364
+msgid "<i>[15]</i>Menu I"
+msgstr ""
+
+#: ../config/1/tf_config.php:365
+msgid "Usage:<br/>- first level menu item."
+msgstr ""
+
+#: ../config/1/tf_config.php:389
+msgid "<i>[16]</i>Menu II"
+msgstr ""
+
+#: ../config/1/tf_config.php:390
+msgid ""
+"Usage:<br/>- item of widget \"Navigation Menu\",<br/>- item of wooCommerce "
+"\"My account\" page menu,<br/>- item of second and next level menu."
+msgstr ""
+
+#: ../config/1/tf_config.php:416
+msgid "<i>[17]</i>Table I"
+msgstr ""
+
+#: ../config/1/tf_config.php:417
+msgid "Usage:<br/>- header of table."
+msgstr ""
+
+#: ../config/1/tf_config.php:442
+msgid "<i>[18]</i>Label I"
+msgstr ""
+
+#: ../config/1/tf_config.php:443
+msgid ""
+"Usage:<br/>- large paragraph (style 2),<br/>- content of blockquote,<br/>- "
+"subheader of \"Call To Action\" component."
+msgstr ""
+
+#: ../config/1/tf_config.php:471
+msgid "<i>[19]</i>Label II"
+msgstr ""
+
+#: ../config/1/tf_config.php:472
+msgid "Usage:<br/>- author in \"Blockquote\" component."
+msgstr ""
+
+#: ../config/1/tf_config.php:495
+msgid "<i>[20]</i>Label III"
+msgstr ""
+
+#: ../config/1/tf_config.php:496
+msgid ""
+"Usage:<br/>- large paragraph (style 1),<br/>- content of testimonial in "
+"\"Testimonials list\" component (style 2),<br/>- subheader of text located "
+"in main circle of \"Features circle\" component."
+msgstr ""
+
+#: ../config/1/tf_config.php:519
+msgid "<i>[21]</i>Label IV"
+msgstr ""
+
+#: ../config/1/tf_config.php:520
+msgid ""
+"Usage:<br/>- value of item in \"Attributes table\" component,<br/>- label "
+"used in \"Meta icons\" component (style 1),<br/>- text used in footer "
+"copyright section."
+msgstr ""
+
+#: ../config/1/tf_config.php:546
+msgid "<i>[22]</i>Label V"
+msgstr ""
+
+#: ../config/1/tf_config.php:547
+msgid ""
+"Usage:<br/>- label used in \"Meta icons\" component (style 2),<br/>- numer "
+"of passengers and bags in \"Vehicle attribute\" widget."
+msgstr ""
+
+#: ../config/1/tf_config.php:569
+msgid "<i>[23]</i>Label VI"
+msgstr ""
+
+#: ../config/1/tf_config.php:570
+msgid ""
+"Usage:<br/>- label used in \"Meta icons\" component (style 3),<br/>- post "
+"date,<br/>- name of comment author and recipient,<br/>- comment date."
+msgstr ""
+
+#: ../config/1/tf_config.php:600
+msgid "<i>[24]</i>Label VII"
+msgstr ""
+
+#: ../config/1/tf_config.php:601
+msgid ""
+"Usage:<br/>- content of \"Text\" and \"RSS\" widgets,<br/>- content of "
+"comment,<br/>- item of \"List\" (style 1 and 3) component,<br/>- description "
+"of driver in \"Driver list\" component."
+msgstr ""
+
+#: ../config/1/tf_config.php:628
+msgid "<i>[25]</i>Label VIII"
+msgstr ""
+
+#: ../config/1/tf_config.php:629
+msgid "Usage:<br/>- item of \"List\" (style 2) component."
+msgstr ""
+
+#: ../config/1/tf_config.php:650
+msgid "<i>[26]</i>Label IX"
+msgstr ""
+
+#: ../config/1/tf_config.php:651
+msgid "Usage:<br/>- number of step in \"Process list\" component."
+msgstr ""
+
+#: ../config/1/tf_config.php:673
+msgid "<i>[27]</i>Label X"
+msgstr ""
+
+#: ../config/1/tf_config.php:674
+msgid "Usage:<br/>- \"Share\" label in post content."
+msgstr ""
+
+#: ../config/1/tf_config.php:697
+msgid "<i>[28]</i>Label XI"
+msgstr ""
+
+#: ../config/1/tf_config.php:756
+msgid "<i>[29]</i>Label XII"
+msgstr ""
+
+#: ../config/1/tf_config.php:757
+msgid "Usage:<br/>- pagination item."
+msgstr ""
+
+#: ../config/1/tf_config.php:780
+msgid "<i>[30]</i>Label XIII"
+msgstr ""
+
+#: ../config/1/tf_config.php:781
+msgid ""
+"Usage:<br/>- label of form fields,<br/>- category name in vehicle list,<br/"
+">- period of experience in \"Work experience\" component."
+msgstr ""
+
+#: ../config/1/tf_config.php:812
+msgid "<i>[31]</i>Label XIV"
+msgstr ""
+
+#: ../config/1/tf_config.php:813
+msgid ""
+"Usage:<br/>- text of form elements,<br/>- item title in widgets \"Recent "
+"posts\", \"Recent comments\", \"Recent Product Reviews\", \"Recent Viewed "
+"Products\", \"Products\", \"Products by Rating\",  ."
+msgstr ""
+
+#: ../config/1/tf_config.php:855
+msgid "<i>[32]</i>Label XV"
+msgstr ""
+
+#: ../config/1/tf_config.php:856
+msgid "Usage:<br/>- button in comment."
+msgstr ""
+
+#: ../config/1/tf_config.php:878
+msgid "<i>[33]</i>Label XVI"
+msgstr ""
+
+#: ../config/1/tf_config.php:879
+msgid "Usage:<br/>- number of passengers and bags in vehicle list."
+msgstr ""
+
+#: ../config/1/tf_config.php:900
+msgid "<i>[34]</i>Label XVII"
+msgstr ""
+
+#: ../config/1/tf_config.php:901
+msgid "Usage:<br/>- header of table in \"Attribute table\" component."
+msgstr ""
+
+#: ../config/1/tf_config.php:924
+msgid "<i>[35]</i>Label XVIII"
+msgstr ""
+
+#: ../config/1/tf_config.php:925
+msgid "Usage:<br/>- number of unit (years) in \"Work experience\" component."
+msgstr ""
+
+#: ../config/1/tf_config.php:946
+msgid "<i>[36]</i>Label XIX"
+msgstr ""
+
+#: ../config/1/tf_config.php:947
+msgid "Usage:<br/>- name of company in \"Work experience\" component."
+msgstr ""
+
+#: ../config/1/tf_config.php:968
+msgid "<i>[37]</i>Label XX"
+msgstr ""
+
+#: ../config/1/tf_config.php:969
+msgid "Usage:<br/>- name of author in \"Testimonial list\" component."
+msgstr ""
+
+#: ../config/1/tf_config.php:993
+msgid "<i>[38]</i>Label XXI"
+msgstr ""
+
+#: ../config/1/tf_config.php:994
+msgid ""
+"Usage:<br/>- label \"Enlarge map\" of button in \"Google Maps\" (type 2) "
+"component."
+msgstr ""
+
+#: ../config/1/tf_config.php:1017
+msgid "<i>[39]</i>Label XXII"
+msgstr ""
+
+#: ../config/1/tf_config.php:1018
+msgid "Usage:<br/>- label of button."
+msgstr ""
+
+#: ../footer.php:138
+msgid "hello."
+msgstr ""
+
+#: ../footer.php:139
+msgid "what are you looking for?"
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:393
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:912
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:2618
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:1019
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:3594
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s done."
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../library/tgm_plugin_activation/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../single-attachment.php:27
+msgid "Download"
+msgstr ""
+
+#: ../single-attachment.php:27
+#, php-format
+msgid "<a href='%s'>Click</a> to download a file."
+msgstr ""
+
+#: ../template/admin/admin.php:27
+msgid "Theme site"
+msgstr ""
+
+#: ../template/admin/admin.php:43
+msgid "General settings"
+msgstr ""
+
+#: ../template/admin/admin.php:45
+msgid "Blog"
+msgstr ""
+
+#: ../template/admin/admin.php:46
+msgid "Page"
+msgstr ""
+
+#: ../template/admin/admin.php:47 ../template/admin/general_logo.php:3
+msgid "Logo"
+msgstr ""
+
+#: ../template/admin/admin.php:48
+msgid "Colors"
+msgstr ""
+
+#: ../template/admin/admin.php:50
+msgid "Social profiles"
+msgstr ""
+
+#: ../template/admin/admin.php:51
+msgid "Custom JS code"
+msgstr ""
+
+#: ../template/admin/admin.php:52
+msgid "Content copying"
+msgstr ""
+
+#: ../template/admin/admin.php:53
+msgid "Go to top of page"
+msgstr ""
+
+#: ../template/admin/admin.php:57
+msgid "Post settings"
+msgstr ""
+
+#: ../template/admin/admin.php:59 ../template/admin/admin.php:68
+#: ../template/admin/admin.php:80 ../template/admin/admin.php:91
+#: ../template/admin/meta_box_page_header.php:4
+#: ../template/admin/meta_box_post_header.php:4
+msgid "Header"
+msgstr ""
+
+#: ../template/admin/admin.php:61 ../template/admin/admin.php:70
+#: ../template/admin/admin.php:82 ../template/admin/admin.php:93
+#: ../template/admin/meta_box_page_footer.php:7
+#: ../template/admin/meta_box_post_footer.php:7
+msgid "Footer"
+msgstr ""
+
+#: ../template/admin/admin.php:62 ../template/admin/meta_box_post_element.php:4
+msgid "Elements"
+msgstr ""
+
+#: ../template/admin/admin.php:66
+msgid "Page settings"
+msgstr ""
+
+#: ../template/admin/admin.php:78
+msgid "Product settings"
+msgstr ""
+
+#: ../template/admin/admin.php:89
+msgid "Vehicle post settings"
+msgstr ""
+
+#: ../template/admin/admin.php:97
+msgid "Plugins settings"
+msgstr ""
+
+#: ../template/admin/admin.php:99
+#: ../template/admin/plugin_maintenance_mode.php:3
+msgid "Maintenance mode"
+msgstr ""
+
+#: ../template/admin/admin.php:100
+msgid "Fancybox for images"
+msgstr ""
+
+#: ../template/admin/admin.php:104
+msgid "Custom CSS"
+msgstr ""
+
+#: ../template/admin/admin.php:170
+msgid "Save changes"
+msgstr ""
+
+#: ../template/admin/custom_css.php:3
+msgid "Default CSS styles"
+msgstr ""
+
+#: ../template/admin/custom_css.php:4
+msgid "Default CSS styles."
+msgstr ""
+
+#: ../template/admin/custom_css.php:15 ../template/admin/custom_css.php:16
+#, php-format
+msgid "CSS styles for page width between %s px and %s px."
+msgstr ""
+
+#: ../template/admin/general_blog.php:3
+msgid "Blog category page"
+msgstr ""
+
+#: ../template/admin/general_blog.php:4
+msgid "Get settings for category/tag page from selected page."
+msgstr ""
+
+#: ../template/admin/general_blog.php:15
+msgid "Blog archive page"
+msgstr ""
+
+#: ../template/admin/general_blog.php:16
+msgid "Get settings for archive page from selected page."
+msgstr ""
+
+#: ../template/admin/general_blog.php:27
+msgid "Blog search page"
+msgstr ""
+
+#: ../template/admin/general_blog.php:28
+msgid "Get settings for search page from selected page."
+msgstr ""
+
+#: ../template/admin/general_blog.php:39
+msgid "Blog author page"
+msgstr ""
+
+#: ../template/admin/general_blog.php:40
+msgid "Get settings for author page from selected page."
+msgstr ""
+
+#: ../template/admin/general_blog.php:51
+msgid "Post sorting"
+msgstr ""
+
+#: ../template/admin/general_blog.php:52
+msgid "Set post sorting in blog pages."
+msgstr ""
+
+#: ../template/admin/general_blog.php:71
+msgid "Automatic excerpt length for \"large\" posts"
+msgstr ""
+
+#: ../template/admin/general_blog.php:72
+msgid "Automatic excerpt length for \"large\" posts."
+msgstr ""
+
+#: ../template/admin/general_blog.php:78
+msgid "Automatic excerpt length for \"small\" posts"
+msgstr ""
+
+#: ../template/admin/general_blog.php:79
+msgid "Automatic excerpt length for \"small\" posts."
+msgstr ""
+
+#: ../template/admin/general_comment.php:3
+msgid "Automatic excerpt length"
+msgstr ""
+
+#: ../template/admin/general_comment.php:4
+msgid "Number of words in automatic excerpt."
+msgstr ""
+
+#: ../template/admin/general_content_copying.php:3
+msgid "Right click"
+msgstr ""
+
+#: ../template/admin/general_content_copying.php:4
+msgid "Enable or disable right click."
+msgstr ""
+
+#: ../template/admin/general_content_copying.php:7
+#: ../template/admin/general_content_copying.php:17
+#: ../template/admin/general_go_top_top.php:7
+#: ../template/admin/general_go_top_top.php:24
+#: ../template/admin/meta_box_post_element.php:19
+#: ../template/admin/plugin_fancybox_image.php:49
+#: ../template/admin/plugin_fancybox_image.php:59
+#: ../template/admin/plugin_fancybox_image.php:69
+#: ../template/admin/plugin_fancybox_image.php:79
+#: ../template/admin/plugin_fancybox_image.php:89
+#: ../template/admin/plugin_fancybox_image.php:99
+#: ../template/admin/plugin_fancybox_image.php:109
+#: ../template/admin/plugin_fancybox_image.php:119
+#: ../template/admin/plugin_fancybox_image.php:129
+#: ../template/admin/plugin_fancybox_image.php:139
+#: ../template/admin/plugin_fancybox_image.php:149
+#: ../template/admin/plugin_maintenance_mode.php:7
+#: ../template/admin/post_element.php:11
+msgid "Enable"
+msgstr ""
+
+#: ../template/admin/general_content_copying.php:9
+#: ../template/admin/general_content_copying.php:19
+#: ../template/admin/general_go_top_top.php:9
+#: ../template/admin/general_go_top_top.php:26
+#: ../template/admin/meta_box_post_element.php:21
+#: ../template/admin/plugin_fancybox_image.php:51
+#: ../template/admin/plugin_fancybox_image.php:61
+#: ../template/admin/plugin_fancybox_image.php:71
+#: ../template/admin/plugin_fancybox_image.php:81
+#: ../template/admin/plugin_fancybox_image.php:91
+#: ../template/admin/plugin_fancybox_image.php:101
+#: ../template/admin/plugin_fancybox_image.php:111
+#: ../template/admin/plugin_fancybox_image.php:121
+#: ../template/admin/plugin_fancybox_image.php:131
+#: ../template/admin/plugin_fancybox_image.php:141
+#: ../template/admin/plugin_fancybox_image.php:151
+#: ../template/admin/plugin_maintenance_mode.php:9
+#: ../template/admin/post_element.php:13
+msgid "Disable"
+msgstr ""
+
+#: ../template/admin/general_content_copying.php:13
+msgid "Text selection"
+msgstr ""
+
+#: ../template/admin/general_content_copying.php:14
+msgid "Enable or disable text selection."
+msgstr ""
+
+#: ../template/admin/general_custom_js_code.php:3
+msgid "Custom javascript code"
+msgstr ""
+
+#: ../template/admin/general_custom_js_code.php:4
+msgid "Don't enter <script> tags. These tags will be added automatically."
+msgstr ""
+
+#: ../template/admin/general_go_top_top.php:3
+msgid "Enable \"Go to page top\""
+msgstr ""
+
+#: ../template/admin/general_go_top_top.php:4
+msgid "Enable or disable hash \"Go to page top\"."
+msgstr ""
+
+#: ../template/admin/general_go_top_top.php:13
+#: ../template/admin/general_go_top_top.php:14
+msgid "Hash"
+msgstr ""
+
+#: ../template/admin/general_go_top_top.php:20
+msgid "Animation"
+msgstr ""
+
+#: ../template/admin/general_go_top_top.php:21
+msgid "Enable or disable animation during scrolling."
+msgstr ""
+
+#: ../template/admin/general_go_top_top.php:30
+msgid "Duration"
+msgstr ""
+
+#: ../template/admin/general_go_top_top.php:31
+msgid "Duration of animation in miliseconds"
+msgstr ""
+
+#: ../template/admin/general_go_top_top.php:37
+#: ../template/admin/plugin_fancybox_image.php:202
+msgid "Easing"
+msgstr ""
+
+#: ../template/admin/general_go_top_top.php:38
+msgid "Easing method of animation."
+msgstr ""
+
+#: ../template/admin/general_logo.php:4 ../template/admin/general_logo.php:21
+msgid ""
+"Enter details of logo (image) in order: URL address, maximum width and "
+"height (in pixels)."
+msgstr ""
+
+#: ../template/admin/general_logo.php:6 ../template/admin/general_logo.php:23
+msgid "URL address:"
+msgstr ""
+
+#: ../template/admin/general_logo.php:8 ../template/admin/general_logo.php:25
+msgid "Browse"
+msgstr ""
+
+#: ../template/admin/general_logo.php:11 ../template/admin/general_logo.php:28
+msgid "Maximum width:"
+msgstr ""
+
+#: ../template/admin/general_logo.php:15 ../template/admin/general_logo.php:32
+msgid "Maximum height:"
+msgstr ""
+
+#: ../template/admin/general_logo.php:20
+msgid "Logo for retina display"
+msgstr ""
+
+#: ../template/admin/general_page.php:3
+msgid "404 error page"
+msgstr ""
+
+#: ../template/admin/general_page.php:4
+msgid "Get settings for 404 page from selected page."
+msgstr ""
+
+#: ../template/admin/meta_box_page_content.php:9
+#: ../template/admin/meta_box_post_content.php:9
+#: ../template/admin/page_content.php:3 ../template/admin/post_content.php:3
+#: ../template/admin/vehicle_post_content.php:3
+#: ../template/admin/woocommerce_product_content.php:3
+msgid "Sidebar"
+msgstr ""
+
+#: ../template/admin/meta_box_page_content.php:10
+#: ../template/admin/meta_box_post_content.php:10
+#: ../template/admin/page_content.php:4 ../template/admin/post_content.php:4
+#: ../template/admin/vehicle_post_content.php:4
+#: ../template/admin/woocommerce_product_content.php:4
+msgid "Select sidebar and location."
+msgstr ""
+
+#: ../template/admin/meta_box_page_content.php:12
+#: ../template/admin/meta_box_post_content.php:12
+#: ../template/admin/page_content.php:6 ../template/admin/post_content.php:6
+#: ../template/admin/vehicle_post_content.php:6
+#: ../template/admin/woocommerce_product_content.php:6
+msgid "Sidebar:"
+msgstr ""
+
+#: ../template/admin/meta_box_page_content.php:23
+#: ../template/admin/meta_box_post_content.php:23
+#: ../template/admin/page_content.php:17 ../template/admin/post_content.php:17
+#: ../template/admin/vehicle_post_content.php:17
+#: ../template/admin/woocommerce_product_content.php:17
+msgid "Location:"
+msgstr ""
+
+#: ../template/admin/meta_box_page_content.php:35
+#: ../template/admin/page_content.php:29
+#: ../template/admin/woocommerce_product_content.php:29
+msgid "Page CSS class"
+msgstr ""
+
+#: ../template/admin/meta_box_page_content.php:36
+#: ../template/admin/meta_box_post_content.php:36
+#: ../template/admin/page_content.php:30 ../template/admin/post_content.php:30
+#: ../template/admin/vehicle_post_content.php:44
+#: ../template/admin/woocommerce_product_content.php:30
+msgid "Enter name of CSS class."
+msgstr ""
+
+#: ../template/admin/meta_box_page_content.php:42
+#: ../template/admin/page_content.php:36
+#: ../template/admin/woocommerce_product_content.php:36
+msgid "Page background color"
+msgstr ""
+
+#: ../template/admin/meta_box_page_content.php:43
+#: ../template/admin/page_content.php:37
+#: ../template/admin/woocommerce_product_content.php:37
+msgid "Enter color for a page background."
+msgstr ""
+
+#: ../template/admin/meta_box_page_content.php:49
+#: ../template/admin/page_content.php:43
+#: ../template/admin/woocommerce_product_content.php:43
+msgid "Page margin"
+msgstr ""
+
+#: ../template/admin/meta_box_page_content.php:51
+#: ../template/admin/page_content.php:45
+#: ../template/admin/woocommerce_product_content.php:45
+msgid "Enter value (in pixels) for top and bottom margins of page content."
+msgstr ""
+
+#: ../template/admin/meta_box_page_content.php:52
+#: ../template/admin/meta_box_post_content.php:52
+#: ../template/admin/page_content.php:46 ../template/admin/post_content.php:46
+#: ../template/admin/vehicle_post_content.php:60
+#: ../template/admin/woocommerce_product_content.php:46
+msgid "Empty value means that default margin will be used."
+msgstr ""
+
+#: ../template/admin/meta_box_page_content.php:55
+#: ../template/admin/meta_box_post_content.php:55
+#: ../template/admin/page_content.php:49 ../template/admin/post_content.php:49
+#: ../template/admin/vehicle_post_content.php:63
+#: ../template/admin/woocommerce_product_content.php:49
+msgid "Top margin:"
+msgstr ""
+
+#: ../template/admin/meta_box_page_content.php:59
+#: ../template/admin/meta_box_post_content.php:59
+#: ../template/admin/page_content.php:53 ../template/admin/post_content.php:53
+#: ../template/admin/vehicle_post_content.php:67
+#: ../template/admin/woocommerce_product_content.php:53
+msgid "Bottom margin:"
+msgstr ""
+
+#: ../template/admin/meta_box_page_footer.php:12
+#: ../template/admin/meta_box_post_footer.php:12
+msgid "Widget area or template in top footer"
+msgstr ""
+
+#: ../template/admin/meta_box_page_footer.php:13
+#: ../template/admin/meta_box_page_footer.php:27
+#: ../template/admin/meta_box_page_footer.php:41
+#: ../template/admin/meta_box_post_footer.php:13
+#: ../template/admin/meta_box_post_footer.php:27
+#: ../template/admin/meta_box_post_footer.php:41
+msgid "Select widget area or template."
+msgstr ""
+
+#: ../template/admin/meta_box_page_footer.php:26
+#: ../template/admin/meta_box_post_footer.php:26
+msgid "Widget area or template in middle footer"
+msgstr ""
+
+#: ../template/admin/meta_box_page_footer.php:40
+#: ../template/admin/meta_box_post_footer.php:40
+msgid "Widget area or template in bottom footer"
+msgstr ""
+
+#: ../template/admin/meta_box_page_header.php:9
+#: ../template/admin/meta_box_post_header.php:9
+#: ../template/admin/page_header.php:3 ../template/admin/post_header.php:3
+#: ../template/admin/vehicle_post_header.php:3
+#: ../template/admin/woocommerce_product_header.php:3
+msgid "Top header template"
+msgstr ""
+
+#: ../template/admin/meta_box_page_header.php:10
+#: ../template/admin/meta_box_post_header.php:10
+#: ../template/admin/page_header.php:4 ../template/admin/post_header.php:4
+#: ../template/admin/vehicle_post_header.php:4
+#: ../template/admin/woocommerce_product_header.php:4
+msgid "Select template for top part of header."
+msgstr ""
+
+#: ../template/admin/meta_box_page_header.php:23
+#: ../template/admin/meta_box_post_header.php:23
+#: ../template/admin/page_header.php:15 ../template/admin/post_header.php:15
+#: ../template/admin/vehicle_post_header.php:15
+#: ../template/admin/woocommerce_product_header.php:15
+msgid "Middle header template"
+msgstr ""
+
+#: ../template/admin/meta_box_page_header.php:24
+#: ../template/admin/meta_box_post_header.php:24
+#: ../template/admin/page_header.php:16 ../template/admin/post_header.php:16
+#: ../template/admin/vehicle_post_header.php:16
+#: ../template/admin/woocommerce_product_header.php:16
+msgid "Select template for middle part of header."
+msgstr ""
+
+#: ../template/admin/meta_box_page_header.php:37
+#: ../template/admin/meta_box_post_header.php:37
+#: ../template/admin/page_header.php:28 ../template/admin/post_header.php:28
+#: ../template/admin/vehicle_post_header.php:28
+#: ../template/admin/woocommerce_product_header.php:28
+msgid "Bottom header template"
+msgstr ""
+
+#: ../template/admin/meta_box_page_header.php:38
+#: ../template/admin/meta_box_post_header.php:38
+#: ../template/admin/page_header.php:29 ../template/admin/post_header.php:29
+#: ../template/admin/vehicle_post_header.php:29
+#: ../template/admin/woocommerce_product_header.php:29
+msgid "Select template for bottom part of header."
+msgstr ""
+
+#: ../template/admin/meta_box_post_content.php:35
+#: ../template/admin/post_content.php:29
+#: ../template/admin/vehicle_post_content.php:43
+msgid "Post CSS class"
+msgstr ""
+
+#: ../template/admin/meta_box_post_content.php:42
+#: ../template/admin/post_content.php:36
+#: ../template/admin/vehicle_post_content.php:50
+msgid "Post background color"
+msgstr ""
+
+#: ../template/admin/meta_box_post_content.php:43
+#: ../template/admin/post_content.php:37
+#: ../template/admin/vehicle_post_content.php:51
+msgid "Enter color for a post background."
+msgstr ""
+
+#: ../template/admin/meta_box_post_content.php:49
+#: ../template/admin/post_content.php:43
+#: ../template/admin/vehicle_post_content.php:57
+msgid "Post margin"
+msgstr ""
+
+#: ../template/admin/meta_box_post_content.php:51
+#: ../template/admin/post_content.php:45
+#: ../template/admin/vehicle_post_content.php:59
+msgid "Enter value (in pixels) for top and bottom margins of post content."
+msgstr ""
+
+#: ../template/admin/page_footer.php:3 ../template/admin/post_footer.php:3
+#: ../template/admin/vehicle_post_footer.php:3
+#: ../template/admin/woocommerce_product_footer.php:3
+msgid "Top footer widget area or template"
+msgstr ""
+
+#: ../template/admin/page_footer.php:4 ../template/admin/post_footer.php:4
+#: ../template/admin/vehicle_post_footer.php:4
+#: ../template/admin/woocommerce_product_footer.php:4
+msgid "Select widget area or template for top part of footer."
+msgstr ""
+
+#: ../template/admin/page_footer.php:17 ../template/admin/post_footer.php:17
+#: ../template/admin/vehicle_post_footer.php:17
+#: ../template/admin/woocommerce_product_footer.php:17
+msgid "Middle footer widget area or template"
+msgstr ""
+
+#: ../template/admin/page_footer.php:18 ../template/admin/post_footer.php:18
+#: ../template/admin/vehicle_post_footer.php:18
+#: ../template/admin/woocommerce_product_footer.php:18
+msgid "Select widget area or template for middle part of footer."
+msgstr ""
+
+#: ../template/admin/page_footer.php:31 ../template/admin/post_footer.php:31
+#: ../template/admin/vehicle_post_footer.php:31
+#: ../template/admin/woocommerce_product_footer.php:31
+msgid "Bottom footer widget area or template"
+msgstr ""
+
+#: ../template/admin/page_footer.php:32 ../template/admin/post_footer.php:32
+#: ../template/admin/vehicle_post_footer.php:32
+#: ../template/admin/woocommerce_product_footer.php:32
+msgid "Select widget area or template for bottom part of footer"
+msgstr ""
+
+#: ../template/admin/page_header.php:20 ../template/admin/page_header.php:33
+#: ../template/admin/post_header.php:20 ../template/admin/post_header.php:33
+#: ../template/admin/vehicle_post_header.php:20
+#: ../template/admin/vehicle_post_header.php:33
+#: ../template/admin/woocommerce_product_header.php:20
+#: ../template/admin/woocommerce_product_header.php:33
+msgid "[Default]"
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:3
+msgid "Padding"
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:4
+msgid "Space between FancyBox wrapper and content (in px)."
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:10
+msgid "Margin"
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:11
+msgid "Space between viewport and FancyBox wrapper (in px)."
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:17
+msgid "Minimum width"
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:18
+msgid "Minimum width fancyBox should be allowed to resize to\t(in px)."
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:24
+msgid "Minimum height"
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:25
+msgid "Minimum height fancyBox should be allowed to resize to (in px)."
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:31
+msgid "Maximum width"
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:32
+msgid "Maximum width fancyBox should be allowed to resize to\t(in px)."
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:38
+msgid "Maximum height"
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:39
+msgid "Maximum height fancyBox should be allowed to resize to (in px)."
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:45
+msgid "Buttons"
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:46
+msgid "When enabled, helper buttons will appear over the image."
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:55
+msgid "Auto resize"
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:56
+msgid "When enabled, the content will be resized after window resize event."
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:65
+msgid "Auto center"
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:66
+msgid "When enabled, the content will always be centered."
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:75
+msgid "Fit to view"
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:76
+msgid ""
+"When enabled, fancyBox is resized to fit inside viewport before opening."
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:85
+msgid "Arrows"
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:86
+msgid "When enabled, navigation arrows will be displayed."
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:95
+msgid "Close button"
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:96
+msgid "When enabled, close button will be displayed."
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:105
+msgid "Close on content click"
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:106
+msgid "When enabled, fancyBox will be closed when user clicks the content."
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:115
+msgid "Next click"
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:116
+msgid ""
+"When enabled, will navigate to next gallery item when user clicks the "
+"content."
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:125
+msgid "Mouse wheel"
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:126
+msgid ""
+"When enabled, you will be able to navigate gallery using the mouse wheel."
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:135
+msgid "Auto play"
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:136
+msgid ""
+"When enabled, slideshow will start after opening the first gallery item."
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:145
+msgid "Loop"
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:146
+msgid ""
+"When enabled, enables cyclic navigation. This means, if you click 'next' "
+"after you reach the last element, first element will be displayed (and vice "
+"versa)."
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:155
+msgid "Play speed"
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:156
+msgid "Slideshow speed (in ms)."
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:162
+msgid "Transition"
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:163
+msgid "Select transition type."
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:165
+#: ../template/admin/plugin_fancybox_image.php:205
+#: ../template/admin/plugin_fancybox_image.php:245
+msgid "Open:"
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:174
+#: ../template/admin/plugin_fancybox_image.php:214
+#: ../template/admin/plugin_fancybox_image.php:249
+msgid "Close:"
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:183
+#: ../template/admin/plugin_fancybox_image.php:223
+#: ../template/admin/plugin_fancybox_image.php:253
+msgid "Next:"
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:192
+#: ../template/admin/plugin_fancybox_image.php:232
+#: ../template/admin/plugin_fancybox_image.php:257
+msgid "Previous:"
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:203
+msgid "Easing method for each transition type."
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:242
+msgid "Speed"
+msgstr ""
+
+#: ../template/admin/plugin_fancybox_image.php:243
+msgid "The time it takes (in ms) to complete transition."
+msgstr ""
+
+#: ../template/admin/plugin_maintenance_mode.php:4
+msgid "Enable or disable maintenance mode."
+msgstr ""
+
+#: ../template/admin/plugin_maintenance_mode.php:13
+msgid "Splash page"
+msgstr ""
+
+#: ../template/admin/plugin_maintenance_mode.php:14
+msgid "Get settings for splash page from selected page."
+msgstr ""
+
+#: ../template/admin/plugin_maintenance_mode.php:25
+msgid "Disable maintenance mode for users"
+msgstr ""
+
+#: ../template/admin/plugin_maintenance_mode.php:26
+msgid "Allow to visit page (in normal mode) selected users:"
+msgstr ""
+
+#: ../template/admin/vehicle_post_content.php:29
+msgid "Bottom content widget area"
+msgstr ""
+
+#: ../template/admin/vehicle_post_content.php:30
+msgid "Select widget area for bottom part of content."
+msgstr ""
+
+#: ../vehicle-list-content.php:43
+msgid "Vehicle Type"
+msgstr ""
+
+#: ../vehicle-list-content.php:45
+msgid "Any Type"
+msgstr ""
+
+#: ../vehicle-list-content.php:57
+msgid "Vehicle Make"
+msgstr ""
+
+#: ../vehicle-list-content.php:59
+msgid "Any Make"
+msgstr ""
+
+#: ../vehicle-list-content.php:116
+#, php-format
+msgid "View vehicle \"%s\"."
+msgstr ""
+
+#: ../woocommerce/cart/cart-empty.php:28
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: ../woocommerce/cart/cart-empty.php:28
+msgid "Return to shop."
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:25
+msgid "Cart totals"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:30
+#: ../woocommerce/cart/cart-totals.php:31
+msgid "Subtotal"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:52
+#: ../woocommerce/cart/cart-totals.php:53
+msgid "Shipping"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:72
+#, php-format
+msgid "(estimated for %s)"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:98
+#: ../woocommerce/cart/cart-totals.php:99 ../woocommerce/cart/cart.php:31
+#: ../woocommerce/cart/cart.php:117 ../woocommerce/order/order-details.php:52
+msgid "Total"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:28 ../woocommerce/cart/cart.php:47
+#: ../woocommerce/order/order-details.php:51
+msgid "Product"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:30 ../woocommerce/cart/cart.php:95
+msgid "Quantity"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:71
+msgid "Available on backorder"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:79
+msgid "Remove this item"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:135
+msgid "Coupon:"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:135
+msgid "Coupon code"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:135
+msgid "Apply coupon"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:140
+msgid "Update cart"
+msgstr ""
+
+#: ../woocommerce/cart/cross-sells.php:28
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:30
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:32
+msgid "Pay"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:35
+msgid "My account"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:48
+msgid "Your order has been received."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:52
+msgid "Thank you"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:62
+msgid "Order number:"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:66
+msgid "Date:"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:71
+msgid "Payment method:"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:87
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: ../woocommerce/loop/no-products-found.php:25
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: ../woocommerce/myaccount/downloads.php:41
+msgid "No downloads available yet."
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:37
+msgid "Username or email address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:41
+#: ../woocommerce/myaccount/form-login.php:86
+msgid "Password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:50
+msgid "Lost your password?"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:52
+msgid "Log in"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:72
+msgid "Username"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:79
+msgid "Email address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:92
+msgid "A password will be sent to your email address."
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:100
+msgid "Register"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:24
+#: ../woocommerce/notices/notice.php:35
+msgid "Information"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:24
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:32
+msgid "Username or email"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:42
+msgid "Reset password"
+msgstr ""
+
+#: ../woocommerce/myaccount/orders.php:102
+msgid "No order has been made yet."
+msgstr ""
+
+#: ../woocommerce/order/order-details-customer.php:31
+msgid "Billing address"
+msgstr ""
+
+#: ../woocommerce/order/order-details-customer.php:34
+#: ../woocommerce/order/order-details-customer.php:52
+msgid "N/A"
+msgstr ""
+
+#: ../woocommerce/order/order-details-customer.php:50
+msgid "Shipping address"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:45
+msgid "Order details"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:93
+msgid "Note:"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:37
+msgid "Reviews"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:69
+msgid "There are no reviews yet."
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:86
+msgid "Add a review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:86
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:88
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:131
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:135
+msgid "Your rating"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:136
+msgid "Rate&hellip;"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:137
+msgid "Perfect"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:138
+msgid "Good"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:139
+msgid "Average"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:140
+msgid "Not that bad"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:141
+msgid "Very poor"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:145
+msgid "Your review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:152
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: ../woocommerce/single-product/related.php:26
+msgid "Related products"
+msgstr ""
+
+#: ../woocommerce/single-product/review-meta.php:27
+msgid "Your review is awaiting approval"
+msgstr ""
+
+#: ../woocommerce/single-product/review-meta.php:37
+msgid "verified owner"
+msgstr ""
+
+#: ../woocommerce/single-product/tabs/additional-information.php:22
+msgid "Additional information"
+msgstr ""
+
+#: ../woocommerce/single-product/tabs/description.php:22
+msgid "Description"
+msgstr ""
